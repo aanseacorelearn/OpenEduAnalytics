@@ -1,11 +1,11 @@
 Entity Name,Attribute Name,Attribute Data Type,Pseudonymization
 studentattendance,,,
 ,id,string,hash
-,system_id,string,hash
-,system_name,string,hash
+,system_id,string,no-op
+,system_name,string,no-op
 ,school_year,integer,partition-by
-,school_id,string,hash
-,school_name,string,hash
+,school_id,string,no-op
+,school_name,string,no-op
 ,grade_configuration,string,no-op
 ,grade_cluster,string,no-op
 ,reporting_label,short,no-op
@@ -17,7 +17,7 @@ studentsectionmark,,,
 ,system_id,string,hash
 ,system_name,string,hash
 ,school_id,string,hash
-,school_name,short,hash
+,school_name,string,hash
 ,grade_configuration,string,no-op
 ,grade_cluster,string,no-op
 ,content_mastery,string,no-op
