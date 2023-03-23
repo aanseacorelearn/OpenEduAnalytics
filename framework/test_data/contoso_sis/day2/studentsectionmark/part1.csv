@@ -1,197 +1,246 @@
-id	school_year	system_id	system_name	school_id	school_name	grade_configuration	grade_cluster	content_mastery	progress	closing_gaps	readiness	graduation_rate	CCRPI_Score	single_score
-1	2022	620	Camden County	193	Kingsland Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	86.7	NA	NA	81.4	NA	NA	NA
-2	2022	620	Camden County	195	David L Rainer Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	78.6	NA	NA	80	NA	NA	NA
-3	2022	620	Camden County	197	Sugarmill Elementary	"PK, KK, 01, 02, 03, 04, 05"	E	89	NA	NA	83.4	NA	NA	NA
-4	2022	620	Camden County	295	Camden County High School	"09, 10, 11, 12"	H	85.5	NA	NA	88.9	93.8	NA	NA
-5	2022	620	Camden County	495	Mary Lee Clark Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	91	NA	NA	80.5	NA	NA	NA
-6	2022	620	Camden County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	85.4	NA	NA	81.1	NA	NA	NA
-7	2022	620	Camden County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	85.5	NA	NA	88.9	93.8	NA	NA
-8	2022	620	Camden County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	77.7	NA	NA	82.1	NA	NA	NA
-9	2022	621	Candler County	101	Metter High School 	"09, 10, 11, 12"	H	63	NA	NA	82.2	96.1	NA	NA
-10	2022	621	Candler County	102	Metter Middle School	"06, 07, 08"	M	46.8	NA	NA	65.7	NA	NA	NA
-11	2022	621	Candler County	302	Metter Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	50.6	NA	NA	65.2	NA	NA	NA
-12	2022	621	Candler County	303	Metter College and Career Academy	"09, 10, 11, 12"	H	31.1	NA	NA	54	92.8	NA	NA
-13	2022	621	Candler County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	50.6	NA	NA	65.2	NA	NA	NA
-14	2022	621	Candler County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	53.8	NA	NA	74.8	94.8	NA	NA
-15	2022	621	Candler County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	46.8	NA	NA	65.7	NA	NA	NA
-16	2022	622	Carroll County	100	Sharp Creek Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	60.9	NA	NA	70.8	NA	NA	NA
-17	2022	622	Carroll County	101	Bowdon Middle School	"06, 07, 08"	M	73.1	NA	NA	79.1	NA	NA	NA
-18	2022	622	Carroll County	102	Temple Middle School	"06, 07, 08"	M	56.2	NA	NA	73.6	NA	NA	NA
-19	2022	622	Carroll County	112	KidsPeace	"06, 07, 08, 09, 10, 11"	H	TFS	NA	NA	NA	0	NA	NA
-20	2022	622	Carroll County	112	KidsPeace	"06, 07, 08, 09, 10, 11"	M	TFS	NA	NA	62.5	NA	NA	NA
-21	2022	622	Carroll County	115	Providence Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	76.6	NA	NA	75.5	NA	NA	NA
-22	2022	622	Carroll County	176	Mount Zion Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	65	NA	NA	72.7	NA	NA	NA
-23	2022	622	Carroll County	177	Central Middle School	"06, 07, 08"	M	75.3	NA	NA	79.4	NA	NA	NA
-24	2022	622	Carroll County	189	Temple High School	"09, 10, 11, 12"	H	66.9	NA	NA	65.4	91.2	NA	NA
-25	2022	622	Carroll County	198	Bay Springs Middle School	"06, 07, 08"	M	66.5	NA	NA	76.5	NA	NA	NA
-26	2022	622	Carroll County	208	Mt. Zion Middle School 	"06, 07, 08"	M	56.3	NA	NA	74.6	NA	NA	NA
-27	2022	622	Carroll County	212	Mt. Zion High School	"09, 10, 11, 12"	H	64.9	NA	NA	72.8	94.8	NA	NA
-28	2022	622	Carroll County	305	Villa Rica Middle	"06, 07, 08"	M	48.6	NA	NA	72.2	NA	NA	NA
-29	2022	622	Carroll County	377	Roopville Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	81.1	NA	NA	78.9	NA	NA	NA
-30	2022	622	Carroll County	405	Ithica Elementary 	"PK, KK, 01, 02, 03, 04, 05"	E	88.2	NA	NA	80.5	NA	NA	NA
-31	2022	622	Carroll County	477	Whitesburg Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	70.9	NA	NA	77.3	NA	NA	NA
-32	2022	622	Carroll County	605	Glanton-Hindsman Elementary	"PK, KK, 01, 02, 03, 04, 05"	E	59.9	NA	NA	69.2	NA	NA	NA
-33	2022	622	Carroll County	705	Villa Rica Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	69.3	NA	NA	62.9	NA	NA	NA
-34	2022	622	Carroll County	1054	Temple Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	71.6	NA	NA	76	NA	NA	NA
-35	2022	622	Carroll County	2050	Bowdon Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	75.1	NA	NA	73.5	NA	NA	NA
-36	2022	622	Carroll County	2052	Central High School	"09, 10, 11, 12"	H	74.2	NA	NA	78.1	96.7	NA	NA
-37	2022	622	Carroll County	3050	Bowdon High School	"09, 10, 11, 12"	H	65.5	NA	NA	68.2	95.6	NA	NA
-38	2022	622	Carroll County	5050	Central Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	90.1	NA	NA	75.9	NA	NA	NA
-39	2022	622	Carroll County	5052	Sand Hill Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	66.8	NA	NA	72.6	NA	NA	NA
-40	2022	622	Carroll County	5054	Villa Rica High School	"09, 10, 11, 12"	H	61.5	NA	NA	68	92.2	NA	NA
-41	2022	622	Carroll County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	73.9	NA	NA	74.1	NA	NA	NA
-42	2022	622	Carroll County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	66.4	NA	NA	71.1	93.9	NA	NA
-43	2022	622	Carroll County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	64.2	NA	NA	76.2	NA	NA	NA
-44	2022	623	Catoosa County	100	Ringgold Primary School	"PK, KK, 01, 02"	E	67.5	NA	NA	75.6	NA	NA	NA
-45	2022	623	Catoosa County	102	Battlefield Primary	"PK, KK, 01, 02"	E	64.9	NA	NA	73.3	NA	NA	NA
-46	2022	623	Catoosa County	103	Battlefield Elementary School	"03, 04, 05"	E	65.5	NA	NA	75.9	NA	NA	NA
-47	2022	623	Catoosa County	105	Woodstation Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	60.7	NA	NA	74.1	NA	NA	NA
-48	2022	623	Catoosa County	109	Heritage High School	"09, 10, 11, 12"	H	77.6	NA	NA	65.4	90	NA	NA
-49	2022	623	Catoosa County	185	Tiger Creek Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	52.4	NA	NA	67.5	NA	NA	NA
-50	2022	623	Catoosa County	205	Heritage Middle School	"06, 07, 08"	M	76.4	NA	NA	79.5	NA	NA	NA
-51	2022	623	Catoosa County	1050	Boynton Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	71.6	NA	NA	79.6	NA	NA	NA
-52	2022	623	Catoosa County	1052	Lakeview-Fort Oglethorpe High School	"09, 10, 11, 12"	H	59.8	NA	NA	62.3	86.7	NA	NA
-53	2022	623	Catoosa County	1054	West Side Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	45.2	NA	NA	65.3	NA	NA	NA
-54	2022	623	Catoosa County	2552	Lakeview Middle School	"06, 07, 08"	M	54.5	NA	NA	69.4	NA	NA	NA
-55	2022	623	Catoosa County	3050	Cloud Springs Elementary School	"KK, 01, 02, 03, 04, 05"	E	49.5	NA	NA	68.8	NA	NA	NA
-56	2022	623	Catoosa County	3052	Ringgold Elementary School	"03, 04, 05"	E	61	NA	NA	72.9	NA	NA	NA
-57	2022	623	Catoosa County	4052	Ringgold High School	"09, 10, 11, 12"	H	76.8	NA	NA	81.1	92	NA	NA
-58	2022	623	Catoosa County	5050	Graysville Elementary School	"KK, 01, 02, 03, 04, 05"	E	69.7	NA	NA	78.4	NA	NA	NA
-59	2022	623	Catoosa County	5052	Ringgold Middle School	"06, 07, 08"	M	76.4	NA	NA	80.8	NA	NA	NA
-60	2022	623	Catoosa County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	61.1	NA	NA	73.6	NA	NA	NA
-61	2022	623	Catoosa County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	71.6	NA	NA	69.9	89.5	NA	NA
-62	2022	623	Catoosa County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	69.8	NA	NA	76.9	NA	NA	NA
-63	2022	624	Charlton County	112	Bethune Middle School	"04, 05, 06, 07, 08"	E	64.1	NA	NA	69.8	NA	NA	NA
-64	2022	624	Charlton County	112	Bethune Middle School	"04, 05, 06, 07, 08"	M	56.3	NA	NA	73.7	NA	NA	NA
-65	2022	624	Charlton County	199	Folkston Elementary School	"PK, KK, 01, 02, 03"	E	79.6	NA	NA	79.1	NA	NA	NA
-66	2022	624	Charlton County	287	Charlton County High School	"09, 10, 11, 12"	H	68.3	NA	NA	78.4	96.6	NA	NA
-67	2022	624	Charlton County	4050	St. George Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06"	E	67.6	NA	NA	73	NA	NA	NA
-68	2022	624	Charlton County	4050	St. George Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06"	M	73.6	NA	NA	75	NA	NA	NA
-69	2022	624	Charlton County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	68.5	NA	NA	73.1	NA	NA	NA
-70	2022	624	Charlton County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	68.3	NA	NA	78.4	96.6	NA	NA
-71	2022	624	Charlton County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	57	NA	NA	73.8	NA	NA	NA
-72	2022	625	Savannah-Chatham County	101	Johnson High School	"09, 10, 11, 12"	H	43.7	NA	NA	54.5	84.5	NA	NA
-73	2022	625	Savannah-Chatham County	107	UHS of Savannah Coastal Harbor Treatment Center	"02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	E	TFS	NA	NA	6.3	NA	NA	NA
-74	2022	625	Savannah-Chatham County	107	UHS of Savannah Coastal Harbor Treatment Center	"02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	H	NA	NA	NA	TFS	TFS	NA	NA
-75	2022	625	Savannah-Chatham County	107	UHS of Savannah Coastal Harbor Treatment Center	"02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	M	TFS	NA	NA	63.2	NA	NA	NA
-76	2022	625	Savannah-Chatham County	109	Coastal Empire Montessori Charter School	"KK, 01, 02, 03, 04, 05"	E	36.8	NA	NA	66.3	NA	NA	NA
-77	2022	625	Savannah-Chatham County	115	Woodville-Tompkins Technical and Career High School	"PK, 09, 10, 11, 12"	E	NA	NA	NA	NA	NA	NA	NA
-78	2022	625	Savannah-Chatham County	115	Woodville-Tompkins Technical and Career High School	"PK, 09, 10, 11, 12"	H	74.5	NA	NA	91.1	100	NA	NA
-79	2022	625	Savannah-Chatham County	116	Pulaski Elementary SChool	"PK, KK, 01, 02, 03, 04, 05"	E	55.4	NA	NA	67.8	NA	NA	NA
-80	2022	625	Savannah-Chatham County	117	New Hampstead High School	"09, 10, 11, 12"	H	59.4	NA	NA	49.7	96	NA	NA
-81	2022	625	Savannah-Chatham County	118	Oglethorpe Charter School	"06, 07, 08"	M	31.6	NA	NA	66	NA	NA	NA
-82	2022	625	Savannah-Chatham County	124	The STEM Academy at Bartlett	"06, 07, 08"	M	76.6	NA	NA	86.9	NA	NA	NA
-83	2022	625	Savannah-Chatham County	125	Tybee Island Maritime Academy School	"KK, 01, 02, 03, 04, 05, 06, 07"	E	70.1	NA	NA	75.4	NA	NA	NA
-84	2022	625	Savannah-Chatham County	125	Tybee Island Maritime Academy School	"KK, 01, 02, 03, 04, 05, 06, 07"	M	61.8	NA	NA	77.8	NA	NA	NA
-85	2022	625	Savannah-Chatham County	128	Savannah Classical Academy Charter School	"KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	68.3	NA	NA	76.6	NA	NA	NA
-86	2022	625	Savannah-Chatham County	128	Savannah Classical Academy Charter School	"KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	62.9	NA	NA	77	NA	NA	NA
-87	2022	625	Savannah-Chatham County	192	Esther F. Garrison School for the Arts	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	71.7	NA	NA	81	NA	NA	NA
-88	2022	625	Savannah-Chatham County	192	Esther F. Garrison School for the Arts	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	80.7	NA	NA	91.2	NA	NA	NA
-89	2022	625	Savannah-Chatham County	194	Georgetown School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	51.2	NA	NA	69	NA	NA	NA
-90	2022	625	Savannah-Chatham County	194	Georgetown School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	40.5	NA	NA	68.9	NA	NA	NA
-91	2022	625	Savannah-Chatham County	197	Garden City Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	54.8	NA	NA	67.2	NA	NA	NA
-92	2022	625	Savannah-Chatham County	199	West Chatham Middle School	"06, 07, 08"	M	37.5	NA	NA	65.6	NA	NA	NA
-93	2022	625	Savannah-Chatham County	200	West Chatham Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	43.9	NA	NA	66.3	NA	NA	NA
-94	2022	625	Savannah-Chatham County	201	DeRenne Middle School	"06, 07, 08"	M	19.6	NA	NA	58.9	NA	NA	NA
-95	2022	625	Savannah-Chatham County	210	The School of Liberal Studies at Savannah High	"09, 10, 11, 12"	H	32.5	NA	NA	47.5	89.5	NA	NA
-96	2022	625	Savannah-Chatham County	211	Godley Station School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	57.3	NA	NA	71.6	NA	NA	NA
-97	2022	625	Savannah-Chatham County	211	Godley Station School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	47.4	NA	NA	74.5	NA	NA	NA
-98	2022	625	Savannah-Chatham County	298	Marshpoint Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	68.9	NA	NA	76.2	NA	NA	NA
-99	2022	625	Savannah-Chatham County	299	Southwest Middle School	"06, 07, 08"	M	28.4	NA	NA	63.9	NA	NA	NA
-100	2022	625	Savannah-Chatham County	300	Southwest Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	42.8	NA	NA	66.1	NA	NA	NA
-101	2022	625	Savannah-Chatham County	301	Myers Middle School 	"06, 07, 08"	M	19.2	NA	NA	59.7	NA	NA	NA
-102	2022	625	Savannah-Chatham County	311	Coastal Middle School	"06, 07, 08"	M	62	NA	NA	75.9	NA	NA	NA
-103	2022	625	Savannah-Chatham County	411	Islands High School	"09, 10, 11, 12"	H	66.7	NA	NA	83.1	91	NA	NA
-104	2022	625	Savannah-Chatham County	499	Savannah Arts Academy	"09, 10, 11, 12"	H	89.3	NA	NA	93.9	99.6	NA	NA
-105	2022	625	Savannah-Chatham County	511	Shuman Elementary School	"01, 02, 03, 04, 05"	E	22.5	NA	NA	57.4	NA	NA	NA
-106	2022	625	Savannah-Chatham County	512	Rice Creek School	"03, 04, 05, 06, 07, 08"	E	28.3	NA	NA	59.1	NA	NA	NA
-107	2022	625	Savannah-Chatham County	512	Rice Creek School	"03, 04, 05, 06, 07, 08"	M	34.5	NA	NA	66.7	NA	NA	NA
-108	2022	625	Savannah-Chatham County	513	Savannah Early College High School	"09, 10, 11, 12"	H	79.8	NA	NA	88	100	NA	NA
-109	2022	625	Savannah-Chatham County	514	School of Humanities at Juliette Gordon Low	"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11"	E	31.2	NA	NA	64	NA	NA	NA
-110	2022	625	Savannah-Chatham County	514	School of Humanities at Juliette Gordon Low	"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11"	H	TFS	NA	NA	NA	NA	NA	NA
-111	2022	625	Savannah-Chatham County	514	School of Humanities at Juliette Gordon Low	"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11"	M	NA	NA	NA	TFS	NA	NA	NA
-112	2022	625	Savannah-Chatham County	515	Susie King Taylor Community School	"KK, 01, 02, 03, 04, 05"	E	42.8	NA	NA	68.8	NA	NA	NA
-113	2022	625	Savannah-Chatham County	516	Savannah Classical Academy Charter High School	"09, 10, 11, 12"	H	66.1	NA	NA	TFS	TFS	NA	NA
-114	2022	625	Savannah-Chatham County	517	Henderson E Formey Jr Early Learning Center	"PK, KK, 01"	E	NA	NA	NA	99.1	NA	NA	NA
-115	2022	625	Savannah-Chatham County	518	Savannah-Chatham E-Learning Academy	"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	E	33.2	NA	NA	65.5	NA	NA	NA
-116	2022	625	Savannah-Chatham County	518	Savannah-Chatham E-Learning Academy	"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	H	33.6	NA	NA	42.1	NA	NA	NA
-117	2022	625	Savannah-Chatham County	518	Savannah-Chatham E-Learning Academy	"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11"	M	26.3	NA	NA	65.7	NA	NA	NA
-118	2022	625	Savannah-Chatham County	519	Susie King Taylor Community School Middle Grades Academy for Social Justice	"06, 07, 08"	M	20.9	NA	NA	66.1	NA	NA	NA
-119	2022	625	Savannah-Chatham County	520	New Hampstead K-8 School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	53.9	NA	NA	69.1	NA	NA	NA
-120	2022	625	Savannah-Chatham County	520	New Hampstead K-8 School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	43.6	NA	NA	66	NA	NA	NA
-121	2022	625	Savannah-Chatham County	1052	Otis J Brock III Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	24.4	NA	NA	56.4	NA	NA	NA
-122	2022	625	Savannah-Chatham County	1056	Gadsden Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	31.3	NA	NA	59.3	NA	NA	NA
-123	2022	625	Savannah-Chatham County	1058	Heard Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	52	NA	NA	71.6	NA	NA	NA
-124	2022	625	Savannah-Chatham County	1060	May Howard Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	81.4	NA	NA	81.9	NA	NA	NA
-125	2022	625	Savannah-Chatham County	1070	White Bluff Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	38.8	NA	NA	63.5	NA	NA	NA
-126	2022	625	Savannah-Chatham County	2052	Beach High School	"09, 10, 11, 12"	H	33.8	NA	NA	42.6	72.9	NA	NA
-127	2022	625	Savannah-Chatham County	2056	Gould Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	35.3	NA	NA	63.5	NA	NA	NA
-128	2022	625	Savannah-Chatham County	2060	Hubert Middle School	"06, 07, 08"	M	23	NA	NA	60.8	NA	NA	NA
-129	2022	625	Savannah-Chatham County	2062	Largo-Tibet Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	30.2	NA	NA	62.6	NA	NA	NA
-130	2022	625	Savannah-Chatham County	2068	Andrea B Williams Elementary School	"01, 02, 03, 04, 05"	E	21.2	NA	NA	54.6	NA	NA	NA
-131	2022	625	Savannah-Chatham County	3056	Groves High School	"09, 10, 11, 12"	H	29.8	NA	NA	42.1	74	NA	NA
-132	2022	625	Savannah-Chatham County	3060	Isle of Hope School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	44.6	NA	NA	63.1	NA	NA	NA
-133	2022	625	Savannah-Chatham County	3060	Isle of Hope School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	30.2	NA	NA	65.2	NA	NA	NA
-134	2022	625	Savannah-Chatham County	3064	Pooler Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	54.6	NA	NA	69.6	NA	NA	NA
-135	2022	625	Savannah-Chatham County	4052	Bloomingdale Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	48.2	NA	NA	67.6	NA	NA	NA
-136	2022	625	Savannah-Chatham County	4054	Ellis Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	47.5	NA	NA	72.3	NA	NA	NA
-137	2022	625	Savannah-Chatham County	4054	Ellis Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	52.8	NA	NA	80.9	NA	NA	NA
-138	2022	625	Savannah-Chatham County	4056	Haven Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	27.8	NA	NA	59.7	NA	NA	NA
-139	2022	625	Savannah-Chatham County	4058	Hesse School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	55.2	NA	NA	70.9	NA	NA	NA
-140	2022	625	Savannah-Chatham County	4058	Hesse School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	41.8	NA	NA	69.5	NA	NA	NA
-141	2022	625	Savannah-Chatham County	4068	Port Wentworth Elementary School	"PK, KK, 01, 02"	E	32.5	NA	NA	60.5	NA	NA	NA
-142	2022	625	Savannah-Chatham County	4070	Windsor Forest Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	44.7	NA	NA	68.9	NA	NA	NA
-143	2022	625	Savannah-Chatham County	5052	Butler Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	28.7	NA	NA	60.3	NA	NA	NA
-144	2022	625	Savannah-Chatham County	5058	Hodge Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	35.7	NA	NA	61.1	NA	NA	NA
-145	2022	625	Savannah-Chatham County	5060	Jenkins High School	"09, 10, 11, 12"	H	49.7	NA	NA	57.5	87.4	NA	NA
-146	2022	625	Savannah-Chatham County	5062	Mercer Middle School	"06, 07, 08"	M	22.1	NA	NA	57.8	NA	NA	NA
-147	2022	625	Savannah-Chatham County	5066	Jacob G. Smith Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	81.3	NA	NA	81.4	NA	NA	NA
-148	2022	625	Savannah-Chatham County	5070	Windsor Forest High School	"PK, 09, 10, 11, 12"	E	NA	NA	NA	NA	NA	NA	NA
-149	2022	625	Savannah-Chatham County	5070	Windsor Forest High School	"PK, 09, 10, 11, 12"	H	36.7	NA	NA	52.5	89.9	NA	NA
-150	2022	625	Savannah-Chatham County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	45.6	NA	NA	67	NA	NA	NA
-151	2022	625	Savannah-Chatham County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	52	NA	NA	66.2	88.8	NA	NA
-152	2022	625	Savannah-Chatham County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	39.6	NA	NA	68.7	NA	NA	NA
-153	2022	626	Chattahoochee County	101	Chattahoochee County Education Center	"PK, KK, 01, 02, 03, 04, 05"	E	68.1	NA	NA	69.7	NA	NA	NA
-154	2022	626	Chattahoochee County	106	Chattahoochee County Middle School	"06, 07, 08"	M	49	NA	NA	74	NA	NA	NA
-155	2022	626	Chattahoochee County	206	Chattahoochee County High School	"09, 10, 11, 12"	H	52.4	NA	NA	74	96.8	NA	NA
-156	2022	626	Chattahoochee County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	68.1	NA	NA	69.7	NA	NA	NA
-157	2022	626	Chattahoochee County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	52.4	NA	NA	74	96.8	NA	NA
-158	2022	626	Chattahoochee County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	49	NA	NA	74	NA	NA	NA
-159	2022	627	Chattooga County	106	Leroy Massey Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	40.6	NA	NA	61.8	NA	NA	NA
-160	2022	627	Chattooga County	1050	Chattooga High School	"09, 10, 11, 12"	H	52.5	NA	NA	80.6	89	NA	NA
-161	2022	627	Chattooga County	2050	Lyerly Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	49	NA	NA	65.8	NA	NA	NA
-162	2022	627	Chattooga County	2050	Lyerly Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	54.5	NA	NA	71.3	NA	NA	NA
-163	2022	627	Chattooga County	2052	Summerville Middle School	"06, 07, 08"	M	37.4	NA	NA	61.9	NA	NA	NA
-164	2022	627	Chattooga County	3050	Menlo Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	E	50.5	NA	NA	63.8	NA	NA	NA
-165	2022	627	Chattooga County	3050	Menlo Elementary School	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08"	M	47.2	NA	NA	71.7	NA	NA	NA
-166	2022	627	Chattooga County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	E	44.1	NA	NA	63	NA	NA	NA
-167	2022	627	Chattooga County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	H	52.5	NA	NA	80.6	89	NA	NA
-168	2022	627	Chattooga County	ALL	All Schools	"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12"	M	42.3	NA	NA	65.6	NA	NA	NA
-169	2022	628	Cherokee County	101	Carmel Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	79.5	NA	NA	79.1	NA	NA	NA
-170	2022	628	Cherokee County	104	Woodstock Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	74.2	NA	NA	77.7	NA	NA	NA
-171	2022	628	Cherokee County	105	"William G. Hasty, Sr. Elementary School"	"PK, KK, 01, 02, 03, 04, 05"	E	54.6	NA	NA	67.9	NA	NA	NA
-172	2022	628	Cherokee County	106	Creekview High School	"09, 10, 11, 12"	H	85.5	NA	NA	83.8	96	NA	NA
-173	2022	628	Cherokee County	108	Avery Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	88.9	NA	NA	83.4	NA	NA	NA
-174	2022	628	Cherokee County	113	Mill Creek Middle School	"06, 07, 08"	M	73.6	NA	NA	81.1	NA	NA	NA
-175	2022	628	Cherokee County	115	River Ridge High School	"09, 10, 11, 12"	H	79.4	NA	NA	80.6	94.7	NA	NA
-176	2022	628	Cherokee County	116	Indian Knoll Elementary	"PK, KK, 01, 02, 03, 04, 05"	E	83.7	NA	NA	81.2	NA	NA	NA
-177	2022	628	Cherokee County	176	Etowah High School	"09, 10, 11, 12"	H	83.3	NA	NA	77.8	91.7	NA	NA
-178	2022	628	Cherokee County	181	E. T. Booth Middle School	"06, 07, 08"	M	67.3	NA	NA	78.9	NA	NA	NA
-179	2022	628	Cherokee County	182	Johnston Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	75.6	NA	NA	76.3	NA	NA	NA
-180	2022	628	Cherokee County	187	Dean Rusk Middle School	"06, 07, 08"	M	76.1	NA	NA	81.4	NA	NA	NA
-181	2022	628	Cherokee County	189	Boston Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	74.1	NA	NA	78.1	NA	NA	NA
-182	2022	628	Cherokee County	190	Mountain Road Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	88.2	NA	NA	79.7	NA	NA	NA
-183	2022	628	Cherokee County	191	Sequoyah High School	"09, 10, 11, 12"	H	82.7	NA	NA	79.3	94.2	NA	NA
-184	2022	628	Cherokee County	193	Sixes Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	89.6	NA	NA	83	NA	NA	NA
-185	2022	628	Cherokee County	196	Bascomb Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	93.5	NA	NA	83.3	NA	NA	NA
-186	2022	628	Cherokee County	197	Woodstock High School	"09, 10, 11, 12"	H	77.3	NA	NA	73.8	94.3	NA	NA
-187	2022	628	Cherokee County	198	R. M. Moore Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	56.4	NA	NA	67.6	NA	NA	NA
-188	2022	628	Cherokee County	199	Holly Springs Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	67.4	NA	NA	73.6	NA	NA	NA
-189	2022	628	Cherokee County	203	Liberty Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	78	NA	NA	77.2	NA	NA	NA
-190	2022	628	Cherokee County	205	Freedom Middle School	"06, 07, 08"	M	73.6	NA	NA	80.1	NA	NA	NA
-191	2022	628	Cherokee County	213	Ball Ground Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	68.9	NA	NA	73.7	NA	NA	NA
-192	2022	628	Cherokee County	287	Teasley Middle School	"06, 07, 08"	M	54	NA	NA	71.7	NA	NA	NA
-193	2022	628	Cherokee County	297	Woodstock Middle School	"06, 07, 08"	M	72.6	NA	NA	77.7	NA	NA	NA
-194	2022	628	Cherokee County	305	Creekland Middle School	"06, 07, 08"	M	74.8	NA	NA	80.1	NA	NA	NA
-195	2022	628	Cherokee County	309	Little River Elem.	"PK, KK, 01, 02, 03, 04, 05"	E	82.7	NA	NA	80	NA	NA	NA
-196	2022	628	Cherokee County	313	Clark Creek Elementary School	"PK, KK, 01, 02, 03, 04, 05"	E	67.3	NA	NA	74.6	NA	NA	NA
+id,school_year,system_id,system_name,school_id,school_name,grade_configuration,grade_cluster,content_mastery,progress,closing_gaps,readiness,graduation_rate,CCRPI_Score,single_score
+1,2022,620,Camden County,193,Kingsland Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,86.7,NA,NA,81.4,NA,NA,NA
+2,2022,620,Camden County,195,David L Rainer Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,78.6,NA,NA,80,NA,NA,NA
+3,2022,620,Camden County,197,Sugarmill Elementary,"PK, KK, 01, 02, 03, 04, 05",E,89,NA,NA,83.4,NA,NA,NA
+4,2022,620,Camden County,295,Camden County High School,"09, 10, 11, 12",H,85.5,NA,NA,88.9,93.8,NA,NA
+5,2022,620,Camden County,495,Mary Lee Clark Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,91,NA,NA,80.5,NA,NA,NA
+6,2022,620,Camden County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,85.4,NA,NA,81.1,NA,NA,NA
+7,2022,620,Camden County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,85.5,NA,NA,88.9,93.8,NA,NA
+8,2022,620,Camden County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,77.7,NA,NA,82.1,NA,NA,NA
+9,2022,621,Candler County,101,Metter High School ,"09, 10, 11, 12",H,63,NA,NA,82.2,96.1,NA,NA
+10,2022,621,Candler County,102,Metter Middle School,"06, 07, 08",M,46.8,NA,NA,65.7,NA,NA,NA
+11,2022,621,Candler County,302,Metter Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,50.6,NA,NA,65.2,NA,NA,NA
+12,2022,621,Candler County,303,Metter College and Career Academy,"09, 10, 11, 12",H,31.1,NA,NA,54,92.8,NA,NA
+13,2022,621,Candler County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,50.6,NA,NA,65.2,NA,NA,NA
+14,2022,621,Candler County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,53.8,NA,NA,74.8,94.8,NA,NA
+15,2022,621,Candler County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,46.8,NA,NA,65.7,NA,NA,NA
+16,2022,622,Carroll County,100,Sharp Creek Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,60.9,NA,NA,70.8,NA,NA,NA
+17,2022,622,Carroll County,101,Bowdon Middle School,"06, 07, 08",M,73.1,NA,NA,79.1,NA,NA,NA
+18,2022,622,Carroll County,102,Temple Middle School,"06, 07, 08",M,56.2,NA,NA,73.6,NA,NA,NA
+19,2022,622,Carroll County,112,KidsPeace,"06, 07, 08, 09, 10, 11",H,TFS,NA,NA,NA,0,NA,NA
+20,2022,622,Carroll County,112,KidsPeace,"06, 07, 08, 09, 10, 11",M,TFS,NA,NA,62.5,NA,NA,NA
+21,2022,622,Carroll County,115,Providence Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,76.6,NA,NA,75.5,NA,NA,NA
+22,2022,622,Carroll County,176,Mount Zion Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,65,NA,NA,72.7,NA,NA,NA
+23,2022,622,Carroll County,177,Central Middle School,"06, 07, 08",M,75.3,NA,NA,79.4,NA,NA,NA
+24,2022,622,Carroll County,189,Temple High School,"09, 10, 11, 12",H,66.9,NA,NA,65.4,91.2,NA,NA
+25,2022,622,Carroll County,198,Bay Springs Middle School,"06, 07, 08",M,66.5,NA,NA,76.5,NA,NA,NA
+26,2022,622,Carroll County,208,Mt. Zion Middle School ,"06, 07, 08",M,56.3,NA,NA,74.6,NA,NA,NA
+27,2022,622,Carroll County,212,Mt. Zion High School,"09, 10, 11, 12",H,64.9,NA,NA,72.8,94.8,NA,NA
+28,2022,622,Carroll County,305,Villa Rica Middle,"06, 07, 08",M,48.6,NA,NA,72.2,NA,NA,NA
+29,2022,622,Carroll County,377,Roopville Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,81.1,NA,NA,78.9,NA,NA,NA
+30,2022,622,Carroll County,405,Ithica Elementary ,"PK, KK, 01, 02, 03, 04, 05",E,88.2,NA,NA,80.5,NA,NA,NA
+31,2022,622,Carroll County,477,Whitesburg Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,70.9,NA,NA,77.3,NA,NA,NA
+32,2022,622,Carroll County,605,Glanton-Hindsman Elementary,"PK, KK, 01, 02, 03, 04, 05",E,59.9,NA,NA,69.2,NA,NA,NA
+33,2022,622,Carroll County,705,Villa Rica Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,69.3,NA,NA,62.9,NA,NA,NA
+34,2022,622,Carroll County,1054,Temple Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,71.6,NA,NA,76,NA,NA,NA
+35,2022,622,Carroll County,2050,Bowdon Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,75.1,NA,NA,73.5,NA,NA,NA
+36,2022,622,Carroll County,2052,Central High School,"09, 10, 11, 12",H,74.2,NA,NA,78.1,96.7,NA,NA
+37,2022,622,Carroll County,3050,Bowdon High School,"09, 10, 11, 12",H,65.5,NA,NA,68.2,95.6,NA,NA
+38,2022,622,Carroll County,5050,Central Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,90.1,NA,NA,75.9,NA,NA,NA
+39,2022,622,Carroll County,5052,Sand Hill Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,66.8,NA,NA,72.6,NA,NA,NA
+40,2022,622,Carroll County,5054,Villa Rica High School,"09, 10, 11, 12",H,61.5,NA,NA,68,92.2,NA,NA
+41,2022,622,Carroll County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,73.9,NA,NA,74.1,NA,NA,NA
+42,2022,622,Carroll County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,66.4,NA,NA,71.1,93.9,NA,NA
+43,2022,622,Carroll County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,64.2,NA,NA,76.2,NA,NA,NA
+44,2022,623,Catoosa County,100,Ringgold Primary School,"PK, KK, 01, 02",E,67.5,NA,NA,75.6,NA,NA,NA
+45,2022,623,Catoosa County,102,Battlefield Primary,"PK, KK, 01, 02",E,64.9,NA,NA,73.3,NA,NA,NA
+46,2022,623,Catoosa County,103,Battlefield Elementary School,"03, 04, 05",E,65.5,NA,NA,75.9,NA,NA,NA
+47,2022,623,Catoosa County,105,Woodstation Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,60.7,NA,NA,74.1,NA,NA,NA
+48,2022,623,Catoosa County,109,Heritage High School,"09, 10, 11, 12",H,77.6,NA,NA,65.4,90,NA,NA
+49,2022,623,Catoosa County,185,Tiger Creek Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,52.4,NA,NA,67.5,NA,NA,NA
+50,2022,623,Catoosa County,205,Heritage Middle School,"06, 07, 08",M,76.4,NA,NA,79.5,NA,NA,NA
+51,2022,623,Catoosa County,1050,Boynton Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,71.6,NA,NA,79.6,NA,NA,NA
+52,2022,623,Catoosa County,1052,Lakeview-Fort Oglethorpe High School,"09, 10, 11, 12",H,59.8,NA,NA,62.3,86.7,NA,NA
+53,2022,623,Catoosa County,1054,West Side Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,45.2,NA,NA,65.3,NA,NA,NA
+54,2022,623,Catoosa County,2552,Lakeview Middle School,"06, 07, 08",M,54.5,NA,NA,69.4,NA,NA,NA
+55,2022,623,Catoosa County,3050,Cloud Springs Elementary School,"KK, 01, 02, 03, 04, 05",E,49.5,NA,NA,68.8,NA,NA,NA
+56,2022,623,Catoosa County,3052,Ringgold Elementary School,"03, 04, 05",E,61,NA,NA,72.9,NA,NA,NA
+57,2022,623,Catoosa County,4052,Ringgold High School,"09, 10, 11, 12",H,76.8,NA,NA,81.1,92,NA,NA
+58,2022,623,Catoosa County,5050,Graysville Elementary School,"KK, 01, 02, 03, 04, 05",E,69.7,NA,NA,78.4,NA,NA,NA
+59,2022,623,Catoosa County,5052,Ringgold Middle School,"06, 07, 08",M,76.4,NA,NA,80.8,NA,NA,NA
+60,2022,623,Catoosa County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,61.1,NA,NA,73.6,NA,NA,NA
+61,2022,623,Catoosa County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,71.6,NA,NA,69.9,89.5,NA,NA
+62,2022,623,Catoosa County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,69.8,NA,NA,76.9,NA,NA,NA
+63,2022,624,Charlton County,112,Bethune Middle School,"04, 05, 06, 07, 08",E,64.1,NA,NA,69.8,NA,NA,NA
+64,2022,624,Charlton County,112,Bethune Middle School,"04, 05, 06, 07, 08",M,56.3,NA,NA,73.7,NA,NA,NA
+65,2022,624,Charlton County,199,Folkston Elementary School,"PK, KK, 01, 02, 03",E,79.6,NA,NA,79.1,NA,NA,NA
+66,2022,624,Charlton County,287,Charlton County High School,"09, 10, 11, 12",H,68.3,NA,NA,78.4,96.6,NA,NA
+67,2022,624,Charlton County,4050,St. George Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06",E,67.6,NA,NA,73,NA,NA,NA
+68,2022,624,Charlton County,4050,St. George Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06",M,73.6,NA,NA,75,NA,NA,NA
+69,2022,624,Charlton County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,68.5,NA,NA,73.1,NA,NA,NA
+70,2022,624,Charlton County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,68.3,NA,NA,78.4,96.6,NA,NA
+71,2022,624,Charlton County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,57,NA,NA,73.8,NA,NA,NA
+72,2022,625,Savannah-Chatham County,101,Johnson High School,"09, 10, 11, 12",H,43.7,NA,NA,54.5,84.5,NA,NA
+73,2022,625,Savannah-Chatham County,107,UHS of Savannah Coastal Harbor Treatment Center,"02, 03, 04, 05, 06, 07, 08, 09, 10, 11",E,TFS,NA,NA,6.3,NA,NA,NA
+74,2022,625,Savannah-Chatham County,107,UHS of Savannah Coastal Harbor Treatment Center,"02, 03, 04, 05, 06, 07, 08, 09, 10, 11",H,NA,NA,NA,TFS,TFS,NA,NA
+75,2022,625,Savannah-Chatham County,107,UHS of Savannah Coastal Harbor Treatment Center,"02, 03, 04, 05, 06, 07, 08, 09, 10, 11",M,TFS,NA,NA,63.2,NA,NA,NA
+76,2022,625,Savannah-Chatham County,109,Coastal Empire Montessori Charter School,"KK, 01, 02, 03, 04, 05",E,36.8,NA,NA,66.3,NA,NA,NA
+77,2022,625,Savannah-Chatham County,115,Woodville-Tompkins Technical and Career High School,"PK, 09, 10, 11, 12",E,NA,NA,NA,NA,NA,NA,NA
+78,2022,625,Savannah-Chatham County,115,Woodville-Tompkins Technical and Career High School,"PK, 09, 10, 11, 12",H,74.5,NA,NA,91.1,100,NA,NA
+79,2022,625,Savannah-Chatham County,116,Pulaski Elementary SChool,"PK, KK, 01, 02, 03, 04, 05",E,55.4,NA,NA,67.8,NA,NA,NA
+80,2022,625,Savannah-Chatham County,117,New Hampstead High School,"09, 10, 11, 12",H,59.4,NA,NA,49.7,96,NA,NA
+81,2022,625,Savannah-Chatham County,118,Oglethorpe Charter School,"06, 07, 08",M,31.6,NA,NA,66,NA,NA,NA
+82,2022,625,Savannah-Chatham County,124,The STEM Academy at Bartlett,"06, 07, 08",M,76.6,NA,NA,86.9,NA,NA,NA
+83,2022,625,Savannah-Chatham County,125,Tybee Island Maritime Academy School,"KK, 01, 02, 03, 04, 05, 06, 07",E,70.1,NA,NA,75.4,NA,NA,NA
+84,2022,625,Savannah-Chatham County,125,Tybee Island Maritime Academy School,"KK, 01, 02, 03, 04, 05, 06, 07",M,61.8,NA,NA,77.8,NA,NA,NA
+85,2022,625,Savannah-Chatham County,128,Savannah Classical Academy Charter School,"KK, 01, 02, 03, 04, 05, 06, 07, 08",E,68.3,NA,NA,76.6,NA,NA,NA
+86,2022,625,Savannah-Chatham County,128,Savannah Classical Academy Charter School,"KK, 01, 02, 03, 04, 05, 06, 07, 08",M,62.9,NA,NA,77,NA,NA,NA
+87,2022,625,Savannah-Chatham County,192,Esther F. Garrison School for the Arts,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,71.7,NA,NA,81,NA,NA,NA
+88,2022,625,Savannah-Chatham County,192,Esther F. Garrison School for the Arts,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,80.7,NA,NA,91.2,NA,NA,NA
+89,2022,625,Savannah-Chatham County,194,Georgetown School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,51.2,NA,NA,69,NA,NA,NA
+90,2022,625,Savannah-Chatham County,194,Georgetown School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,40.5,NA,NA,68.9,NA,NA,NA
+91,2022,625,Savannah-Chatham County,197,Garden City Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,54.8,NA,NA,67.2,NA,NA,NA
+92,2022,625,Savannah-Chatham County,199,West Chatham Middle School,"06, 07, 08",M,37.5,NA,NA,65.6,NA,NA,NA
+93,2022,625,Savannah-Chatham County,200,West Chatham Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,43.9,NA,NA,66.3,NA,NA,NA
+94,2022,625,Savannah-Chatham County,201,DeRenne Middle School,"06, 07, 08",M,19.6,NA,NA,58.9,NA,NA,NA
+95,2022,625,Savannah-Chatham County,210,The School of Liberal Studies at Savannah High,"09, 10, 11, 12",H,32.5,NA,NA,47.5,89.5,NA,NA
+96,2022,625,Savannah-Chatham County,211,Godley Station School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,57.3,NA,NA,71.6,NA,NA,NA
+97,2022,625,Savannah-Chatham County,211,Godley Station School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,47.4,NA,NA,74.5,NA,NA,NA
+98,2022,625,Savannah-Chatham County,298,Marshpoint Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,68.9,NA,NA,76.2,NA,NA,NA
+99,2022,625,Savannah-Chatham County,299,Southwest Middle School,"06, 07, 08",M,28.4,NA,NA,63.9,NA,NA,NA
+100,2022,625,Savannah-Chatham County,300,Southwest Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,42.8,NA,NA,66.1,NA,NA,NA
+101,2022,625,Savannah-Chatham County,301,Myers Middle School ,"06, 07, 08",M,19.2,NA,NA,59.7,NA,NA,NA
+102,2022,625,Savannah-Chatham County,311,Coastal Middle School,"06, 07, 08",M,62,NA,NA,75.9,NA,NA,NA
+103,2022,625,Savannah-Chatham County,411,Islands High School,"09, 10, 11, 12",H,66.7,NA,NA,83.1,91,NA,NA
+104,2022,625,Savannah-Chatham County,499,Savannah Arts Academy,"09, 10, 11, 12",H,89.3,NA,NA,93.9,99.6,NA,NA
+105,2022,625,Savannah-Chatham County,511,Shuman Elementary School,"01, 02, 03, 04, 05",E,22.5,NA,NA,57.4,NA,NA,NA
+106,2022,625,Savannah-Chatham County,512,Rice Creek School,"03, 04, 05, 06, 07, 08",E,28.3,NA,NA,59.1,NA,NA,NA
+107,2022,625,Savannah-Chatham County,512,Rice Creek School,"03, 04, 05, 06, 07, 08",M,34.5,NA,NA,66.7,NA,NA,NA
+108,2022,625,Savannah-Chatham County,513,Savannah Early College High School,"09, 10, 11, 12",H,79.8,NA,NA,88,100,NA,NA
+109,2022,625,Savannah-Chatham County,514,School of Humanities at Juliette Gordon Low,"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11",E,31.2,NA,NA,64,NA,NA,NA
+110,2022,625,Savannah-Chatham County,514,School of Humanities at Juliette Gordon Low,"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11",H,TFS,NA,NA,NA,NA,NA,NA
+111,2022,625,Savannah-Chatham County,514,School of Humanities at Juliette Gordon Low,"PK, KK, 01, 02, 03, 04, 05, 07, 08, 09, 11",M,NA,NA,NA,TFS,NA,NA,NA
+112,2022,625,Savannah-Chatham County,515,Susie King Taylor Community School,"KK, 01, 02, 03, 04, 05",E,42.8,NA,NA,68.8,NA,NA,NA
+113,2022,625,Savannah-Chatham County,516,Savannah Classical Academy Charter High School,"09, 10, 11, 12",H,66.1,NA,NA,TFS,TFS,NA,NA
+114,2022,625,Savannah-Chatham County,517,Henderson E Formey Jr Early Learning Center,"PK, KK, 01",E,NA,NA,NA,99.1,NA,NA,NA
+115,2022,625,Savannah-Chatham County,518,Savannah-Chatham E-Learning Academy,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11",E,33.2,NA,NA,65.5,NA,NA,NA
+116,2022,625,Savannah-Chatham County,518,Savannah-Chatham E-Learning Academy,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11",H,33.6,NA,NA,42.1,NA,NA,NA
+117,2022,625,Savannah-Chatham County,518,Savannah-Chatham E-Learning Academy,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11",M,26.3,NA,NA,65.7,NA,NA,NA
+118,2022,625,Savannah-Chatham County,519,Susie King Taylor Community School Middle Grades Academy for Social Justice,"06, 07, 08",M,20.9,NA,NA,66.1,NA,NA,NA
+119,2022,625,Savannah-Chatham County,520,New Hampstead K-8 School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,53.9,NA,NA,69.1,NA,NA,NA
+120,2022,625,Savannah-Chatham County,520,New Hampstead K-8 School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,43.6,NA,NA,66,NA,NA,NA
+121,2022,625,Savannah-Chatham County,1052,Otis J Brock III Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,24.4,NA,NA,56.4,NA,NA,NA
+122,2022,625,Savannah-Chatham County,1056,Gadsden Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,31.3,NA,NA,59.3,NA,NA,NA
+123,2022,625,Savannah-Chatham County,1058,Heard Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,52,NA,NA,71.6,NA,NA,NA
+124,2022,625,Savannah-Chatham County,1060,May Howard Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,81.4,NA,NA,81.9,NA,NA,NA
+125,2022,625,Savannah-Chatham County,1070,White Bluff Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,38.8,NA,NA,63.5,NA,NA,NA
+126,2022,625,Savannah-Chatham County,2052,Beach High School,"09, 10, 11, 12",H,33.8,NA,NA,42.6,72.9,NA,NA
+127,2022,625,Savannah-Chatham County,2056,Gould Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,35.3,NA,NA,63.5,NA,NA,NA
+128,2022,625,Savannah-Chatham County,2060,Hubert Middle School,"06, 07, 08",M,23,NA,NA,60.8,NA,NA,NA
+129,2022,625,Savannah-Chatham County,2062,Largo-Tibet Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,30.2,NA,NA,62.6,NA,NA,NA
+130,2022,625,Savannah-Chatham County,2068,Andrea B Williams Elementary School,"01, 02, 03, 04, 05",E,21.2,NA,NA,54.6,NA,NA,NA
+131,2022,625,Savannah-Chatham County,3056,Groves High School,"09, 10, 11, 12",H,29.8,NA,NA,42.1,74,NA,NA
+132,2022,625,Savannah-Chatham County,3060,Isle of Hope School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,44.6,NA,NA,63.1,NA,NA,NA
+133,2022,625,Savannah-Chatham County,3060,Isle of Hope School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,30.2,NA,NA,65.2,NA,NA,NA
+134,2022,625,Savannah-Chatham County,3064,Pooler Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,54.6,NA,NA,69.6,NA,NA,NA
+135,2022,625,Savannah-Chatham County,4052,Bloomingdale Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,48.2,NA,NA,67.6,NA,NA,NA
+136,2022,625,Savannah-Chatham County,4054,Ellis Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,47.5,NA,NA,72.3,NA,NA,NA
+137,2022,625,Savannah-Chatham County,4054,Ellis Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,52.8,NA,NA,80.9,NA,NA,NA
+138,2022,625,Savannah-Chatham County,4056,Haven Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,27.8,NA,NA,59.7,NA,NA,NA
+139,2022,625,Savannah-Chatham County,4058,Hesse School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,55.2,NA,NA,70.9,NA,NA,NA
+140,2022,625,Savannah-Chatham County,4058,Hesse School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,41.8,NA,NA,69.5,NA,NA,NA
+141,2022,625,Savannah-Chatham County,4068,Port Wentworth Elementary School,"PK, KK, 01, 02",E,32.5,NA,NA,60.5,NA,NA,NA
+142,2022,625,Savannah-Chatham County,4070,Windsor Forest Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,44.7,NA,NA,68.9,NA,NA,NA
+143,2022,625,Savannah-Chatham County,5052,Butler Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,28.7,NA,NA,60.3,NA,NA,NA
+144,2022,625,Savannah-Chatham County,5058,Hodge Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,35.7,NA,NA,61.1,NA,NA,NA
+145,2022,625,Savannah-Chatham County,5060,Jenkins High School,"09, 10, 11, 12",H,49.7,NA,NA,57.5,87.4,NA,NA
+146,2022,625,Savannah-Chatham County,5062,Mercer Middle School,"06, 07, 08",M,22.1,NA,NA,57.8,NA,NA,NA
+147,2022,625,Savannah-Chatham County,5066,Jacob G. Smith Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,81.3,NA,NA,81.4,NA,NA,NA
+148,2022,625,Savannah-Chatham County,5070,Windsor Forest High School,"PK, 09, 10, 11, 12",E,NA,NA,NA,NA,NA,NA,NA
+149,2022,625,Savannah-Chatham County,5070,Windsor Forest High School,"PK, 09, 10, 11, 12",H,36.7,NA,NA,52.5,89.9,NA,NA
+150,2022,625,Savannah-Chatham County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,45.6,NA,NA,67,NA,NA,NA
+151,2022,625,Savannah-Chatham County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,52,NA,NA,66.2,88.8,NA,NA
+152,2022,625,Savannah-Chatham County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,39.6,NA,NA,68.7,NA,NA,NA
+153,2022,626,Chattahoochee County,101,Chattahoochee County Education Center,"PK, KK, 01, 02, 03, 04, 05",E,68.1,NA,NA,69.7,NA,NA,NA
+154,2022,626,Chattahoochee County,106,Chattahoochee County Middle School,"06, 07, 08",M,49,NA,NA,74,NA,NA,NA
+155,2022,626,Chattahoochee County,206,Chattahoochee County High School,"09, 10, 11, 12",H,52.4,NA,NA,74,96.8,NA,NA
+156,2022,626,Chattahoochee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,68.1,NA,NA,69.7,NA,NA,NA
+157,2022,626,Chattahoochee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,52.4,NA,NA,74,96.8,NA,NA
+158,2022,626,Chattahoochee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,49,NA,NA,74,NA,NA,NA
+159,2022,627,Chattooga County,106,Leroy Massey Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,40.6,NA,NA,61.8,NA,NA,NA
+160,2022,627,Chattooga County,1050,Chattooga High School,"09, 10, 11, 12",H,52.5,NA,NA,80.6,89,NA,NA
+161,2022,627,Chattooga County,2050,Lyerly Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,49,NA,NA,65.8,NA,NA,NA
+162,2022,627,Chattooga County,2050,Lyerly Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,54.5,NA,NA,71.3,NA,NA,NA
+163,2022,627,Chattooga County,2052,Summerville Middle School,"06, 07, 08",M,37.4,NA,NA,61.9,NA,NA,NA
+164,2022,627,Chattooga County,3050,Menlo Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",E,50.5,NA,NA,63.8,NA,NA,NA
+165,2022,627,Chattooga County,3050,Menlo Elementary School,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08",M,47.2,NA,NA,71.7,NA,NA,NA
+166,2022,627,Chattooga County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,44.1,NA,NA,63,NA,NA,NA
+167,2022,627,Chattooga County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,52.5,NA,NA,80.6,89,NA,NA
+168,2022,627,Chattooga County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,42.3,NA,NA,65.6,NA,NA,NA
+169,2022,628,Cherokee County,101,Carmel Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,79.5,NA,NA,79.1,NA,NA,NA
+170,2022,628,Cherokee County,104,Woodstock Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,74.2,NA,NA,77.7,NA,NA,NA
+171,2022,628,Cherokee County,105,"William G. Hasty, Sr. Elementary School","PK, KK, 01, 02, 03, 04, 05",E,54.6,NA,NA,67.9,NA,NA,NA
+172,2022,628,Cherokee County,106,Creekview High School,"09, 10, 11, 12",H,85.5,NA,NA,83.8,96,NA,NA
+173,2022,628,Cherokee County,108,Avery Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,88.9,NA,NA,83.4,NA,NA,NA
+174,2022,628,Cherokee County,113,Mill Creek Middle School,"06, 07, 08",M,73.6,NA,NA,81.1,NA,NA,NA
+175,2022,628,Cherokee County,115,River Ridge High School,"09, 10, 11, 12",H,79.4,NA,NA,80.6,94.7,NA,NA
+176,2022,628,Cherokee County,116,Indian Knoll Elementary,"PK, KK, 01, 02, 03, 04, 05",E,83.7,NA,NA,81.2,NA,NA,NA
+177,2022,628,Cherokee County,176,Etowah High School,"09, 10, 11, 12",H,83.3,NA,NA,77.8,91.7,NA,NA
+178,2022,628,Cherokee County,181,E. T. Booth Middle School,"06, 07, 08",M,67.3,NA,NA,78.9,NA,NA,NA
+179,2022,628,Cherokee County,182,Johnston Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,75.6,NA,NA,76.3,NA,NA,NA
+180,2022,628,Cherokee County,187,Dean Rusk Middle School,"06, 07, 08",M,76.1,NA,NA,81.4,NA,NA,NA
+181,2022,628,Cherokee County,189,Boston Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,74.1,NA,NA,78.1,NA,NA,NA
+182,2022,628,Cherokee County,190,Mountain Road Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,88.2,NA,NA,79.7,NA,NA,NA
+183,2022,628,Cherokee County,191,Sequoyah High School,"09, 10, 11, 12",H,82.7,NA,NA,79.3,94.2,NA,NA
+184,2022,628,Cherokee County,193,Sixes Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,89.6,NA,NA,83,NA,NA,NA
+185,2022,628,Cherokee County,196,Bascomb Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,93.5,NA,NA,83.3,NA,NA,NA
+186,2022,628,Cherokee County,197,Woodstock High School,"09, 10, 11, 12",H,77.3,NA,NA,73.8,94.3,NA,NA
+187,2022,628,Cherokee County,198,R. M. Moore Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,56.4,NA,NA,67.6,NA,NA,NA
+188,2022,628,Cherokee County,199,Holly Springs Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,67.4,NA,NA,73.6,NA,NA,NA
+189,2022,628,Cherokee County,203,Liberty Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,78,NA,NA,77.2,NA,NA,NA
+190,2022,628,Cherokee County,205,Freedom Middle School,"06, 07, 08",M,73.6,NA,NA,80.1,NA,NA,NA
+191,2022,628,Cherokee County,213,Ball Ground Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,68.9,NA,NA,73.7,NA,NA,NA
+192,2022,628,Cherokee County,287,Teasley Middle School,"06, 07, 08",M,54,NA,NA,71.7,NA,NA,NA
+193,2022,628,Cherokee County,297,Woodstock Middle School,"06, 07, 08",M,72.6,NA,NA,77.7,NA,NA,NA
+194,2022,628,Cherokee County,305,Creekland Middle School,"06, 07, 08",M,74.8,NA,NA,80.1,NA,NA,NA
+195,2022,628,Cherokee County,309,Little River Elem.,"PK, KK, 01, 02, 03, 04, 05",E,82.7,NA,NA,80,NA,NA,NA
+196,2022,628,Cherokee County,313,Clark Creek Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,67.3,NA,NA,74.6,NA,NA,NA
+197,2022,628,Cherokee County,397,Arnold Mill Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,85.2,NA,NA,80.3,NA,NA,NA
+198,2022,628,Cherokee County,505,Free Home Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,75.4,NA,NA,78.7,NA,NA,NA
+199,2022,628,Cherokee County,509,J. Knox Elementary,"PK, KK, 01, 02, 03, 04, 05",E,75.5,NA,NA,74.5,NA,NA,NA
+200,2022,628,Cherokee County,606,iGrad Virtual Academy School,"09, 10, 11, 12",H,59.2,NA,NA,46.4,93.8,NA,NA
+201,2022,628,Cherokee County,1052,Clayton Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,71.4,NA,NA,74,NA,NA,NA
+202,2022,628,Cherokee County,2054,Oak Grove Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,58.6,NA,NA,72.1,NA,NA,NA
+203,2022,628,Cherokee County,3052,Hickory Flat Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,81.9,NA,NA,80.3,NA,NA,NA
+204,2022,628,Cherokee County,5050,Cherokee High School,"09, 10, 11, 12",H,71.4,NA,NA,73.5,86.1,NA,NA
+205,2022,628,Cherokee County,5052,Macedonia Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,86.8,NA,NA,83.6,NA,NA,NA
+206,2022,628,Cherokee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,77.3,NA,NA,77.8,NA,NA,NA
+207,2022,628,Cherokee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,79.3,NA,NA,77.4,92.3,NA,NA
+208,2022,628,Cherokee County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,69.7,NA,NA,78.5,NA,NA,NA
+209,2022,629,Clarke County,102,Cedar Shoals High School,"09, 10, 11, 12",H,45.8,NA,NA,71.5,73.5,NA,NA
+210,2022,629,Clarke County,104,Classic City High School,"09, 10, 11, 12",H,TFS,NA,NA,13.1,69,NA,NA
+211,2022,629,Clarke County,105,Alps Road Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,23.3,NA,NA,56.3,NA,NA,NA
+212,2022,629,Clarke County,112,Judia Jackson Harris Elementary,"PK, KK, 01, 02, 03, 04, 05",E,48.4,NA,NA,68.3,NA,NA,NA
+213,2022,629,Clarke County,178,Timothy Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,67.7,NA,NA,75.9,NA,NA,NA
+214,2022,629,Clarke County,191,Cleveland Road Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,41.9,NA,NA,63.3,NA,NA,NA
+215,2022,629,Clarke County,196,Coile Middle School,"06, 07, 08",M,25.5,NA,NA,63.9,NA,NA,NA
+216,2022,629,Clarke County,205,Gaines Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,26.5,NA,NA,57.4,NA,NA,NA
+217,2022,629,Clarke County,291,Howard B. Stroud Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,35.2,NA,NA,57.1,NA,NA,NA
+218,2022,629,Clarke County,296,Burney-Harris-Lyons Middle School,"06, 07, 08",M,49.6,NA,NA,69,NA,NA,NA
+219,2022,629,Clarke County,391,Whit Davis Road Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,40.9,NA,NA,66.4,NA,NA,NA
+220,2022,629,Clarke County,1058,Clarke Middle School,"06, 07, 08",M,54.9,NA,NA,71.6,NA,NA,NA
+221,2022,629,Clarke County,1062,Whitehead Road Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,54.3,NA,NA,67.3,NA,NA,NA
+222,2022,629,Clarke County,2056,Barnett Shoals Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,56.6,NA,NA,70,NA,NA,NA
+223,2022,629,Clarke County,2062,Winterville Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,47.8,NA,NA,65.2,NA,NA,NA
+224,2022,629,Clarke County,3056,Barrow Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,61.3,NA,NA,72.5,NA,NA,NA
+225,2022,629,Clarke County,3058,Fowler Drive Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,44.5,NA,NA,65.4,NA,NA,NA
+226,2022,629,Clarke County,4060,Oglethorpe Avenue Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,41.9,NA,NA,66.1,NA,NA,NA
+227,2022,629,Clarke County,5056,Chase Street Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,81.6,NA,NA,80.2,NA,NA,NA
+228,2022,629,Clarke County,5058,Hilsman Middle School,"06, 07, 08",M,43,NA,NA,66.3,NA,NA,NA
+229,2022,629,Clarke County,5556,Clarke Central High School,"09, 10, 11, 12",H,60.3,NA,NA,74.4,82.1,NA,NA
+230,2022,629,Clarke County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,49.6,NA,NA,67.2,NA,NA,NA
+231,2022,629,Clarke County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,53.3,NA,NA,71.4,78.3,NA,NA
+232,2022,629,Clarke County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,43.6,NA,NA,67.7,NA,NA,NA
+233,2022,630,Clay County,104,Clay County Middle School,"06, 07, 08",M,35.5,NA,NA,62.6,NA,NA,NA
+234,2022,630,Clay County,204,Clay County Elementary,"PK, KK, 01, 02, 03, 04, 05",E,37.3,NA,NA,17.2,NA,NA,NA
+235,2022,630,Clay County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,37.3,NA,NA,17.2,NA,NA,NA
+236,2022,630,Clay County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,NA,NA,NA,NA,NA,NA,NA
+237,2022,630,Clay County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",M,35.5,NA,NA,62.6,NA,NA,NA
+238,2022,631,Clayton County,100,M. D. Roberts Middle School,"06, 07, 08",M,49.7,NA,NA,75.1,NA,NA,NA
+239,2022,631,Clayton County,103,Callaway Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,27.3,NA,NA,59,NA,NA,NA
+240,2022,631,Clayton County,104,Mundy's Mill High School,"09, 10, 11, 12",H,43.1,NA,NA,68.9,87.6,NA,NA
+241,2022,631,Clayton County,105,Thurgood Marshall Elementary School,"PK, KK, 01, 02, 03, 04, 05",E,40.4,NA,NA,65.3,NA,NA,NA
+242,2022,631,Clayton County,106,Jonesboro Middle School,"06, 07, 08",M,26.4,NA,NA,54.6,NA,NA,NA
+243,2022,631,Clayton County,107,Sequoyah Middle School,"06, 07, 08",M,31.8,NA,NA,54.5,NA,NA,NA
+244,2022,631,Clayton County,109,Mount Zion Primary,"PK, KK, 01, 02",E,24.6,NA,NA,58.7,NA,NA,NA
+245,2022,631,Clayton County,114,Elite Scholars Academy School,"06, 07, 08, 09, 10, 11, 12",H,98,NA,NA,93.8,100,NA,NA
