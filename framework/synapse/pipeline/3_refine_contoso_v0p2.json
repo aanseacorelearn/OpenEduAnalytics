@@ -19,7 +19,7 @@
                             "type": "Expression"
                         },
                         "entityPath": "contoso/v0.1/students",
-                        "primaryKey": "SIS ID"
+                        "primaryKey": "id"
                     }
                 }
             },
