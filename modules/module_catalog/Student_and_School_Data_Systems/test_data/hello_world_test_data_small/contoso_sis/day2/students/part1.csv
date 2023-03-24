@@ -1,3 +1,233 @@
-SIS ID,School SIS ID,Username,Password,First Name,Last Name,Middle Name,Secondary Email,Student Number,Grade,State ID,Status,Birthdate,Graduation Year,Gender,FederalRaceCategory,PrimaryLanguage,ELLStatus,SpecialEducation,LowIncome,CumulativeGPA
-st1,sch0,albertibarra1,#3NOx54M_@,Al,Ibarra,David,albertibarra1@Classrmtest86.org,1,11,123,Active,4/2/2004,2020,Male,American Indian,English,,,0,3.33
-st2,sch0,sharonhenderson2,V3oPVJ5j_0,Sharon,Henderson,Elizabeth,sharonhenderson2@Classrmtest86.org,2,12,123,Active,4/2/2004,2020,Male,Black,English,,Resource Specialty Program,0,0.423
+id,school_year,system_id,system_name,school_id,school_name,grade_configuration,grade_cluster,reporting_label,indicator,sub_indicator,unbenchmarked_rate,indicator_score
+1,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,Students With Disability,Beyond the Core,All,NA,100
+2,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,White,Beyond the Core,All,NA,100
+3,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,ALL Students,Beyond the Core,Computer Science,NA,0
+4,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,American Indian/Alaskan Native,Beyond the Core,Computer Science,NA,NA
+5,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,Asian/Pacific Islander,Beyond the Core,Computer Science,NA,NA
+6,2022,601,Appling County,1050,Altamaha Elementary School,PK,E,Black,Beyond the Core,Computer Science,NA,0
+7,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,Economically Disadvantaged,Beyond the Core,Computer Science,NA,0
+8,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,English Learners,Beyond the Core,Computer Science,NA,0
+9,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,Hispanic,Beyond the Core,Computer Science,NA,0
+10,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,Multi-Racial,Beyond the Core,Computer Science,NA,Too Few Students
+11,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,Students With Disability,Beyond the Core,Computer Science,NA,0
+12,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,White,Beyond the Core,Computer Science,NA,0
+13,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,ALL Students,Beyond the Core,Fine arts,NA,100
+14,2022,601,Appling County,1050,Altamaha Elementary School,KK,E,American Indian/Alaskan Native,Beyond the Core,Fine arts,NA,NA
+15,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Asian/Pacific Islander,Beyond the Core,Fine arts,NA,NA
+16,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Black,Beyond the Core,Fine arts,NA,100
+17,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Economically Disadvantaged,Beyond the Core,Fine arts,NA,100
+18,2022,601,Appling County,1050,Altamaha Elementary School,1,E,English Learners,Beyond the Core,Fine arts,NA,100
+19,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Hispanic,Beyond the Core,Fine arts,NA,100
+20,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Multi-Racial,Beyond the Core,Fine arts,NA,Too Few Students
+21,2022,601,Appling County,1050,Altamaha Elementary School,1,E,Students With Disability,Beyond the Core,Fine arts,NA,100
+22,2022,601,Appling County,1050,Altamaha Elementary School,1,E,White,Beyond the Core,Fine arts,NA,100
+23,2022,601,Appling County,1050,Altamaha Elementary School,1,E,ALL Students,Beyond the Core,World Language,NA,0
+24,2022,601,Appling County,1050,Altamaha Elementary School,2,E,American Indian/Alaskan Native,Beyond the Core,World Language,NA,NA
+25,2022,601,Appling County,1050,Altamaha Elementary School,2,E,Asian/Pacific Islander,Beyond the Core,World Language,NA,NA
+26,2022,601,Appling County,1050,Altamaha Elementary School,2,E,Black,Beyond the Core,World Language,NA,0
+27,2022,601,Appling County,1050,Altamaha Elementary School,2,E,Economically Disadvantaged,Beyond the Core,World Language,NA,0
+28,2022,601,Appling County,1050,Altamaha Elementary School,2,E,English Learners,Beyond the Core,World Language,NA,0
+29,2022,601,Appling County,1050,Altamaha Elementary School,2,E,Hispanic,Beyond the Core,World Language,NA,0
+30,2022,601,Appling County,1050,Altamaha Elementary School,3,E,Multi-Racial,Beyond the Core,World Language,NA,Too Few Students
+31,2022,601,Appling County,1050,Altamaha Elementary School,3,E,Students With Disability,Beyond the Core,World Language,NA,0
+32,2022,601,Appling County,1050,Altamaha Elementary School,3,E,White,Beyond the Core,World Language,NA,0
+33,2022,601,Appling County,1050,Altamaha Elementary School,3,E,ALL Students,Literacy,NA,NA,46.2
+34,2022,601,Appling County,1050,Altamaha Elementary School,3,E,American Indian/Alaskan Native,Literacy,NA,NA,NA
+35,2022,601,Appling County,1050,Altamaha Elementary School,3,E,Asian/Pacific Islander,Literacy,NA,NA,NA
+36,2022,601,Appling County,1050,Altamaha Elementary School,3,E,Black,Literacy,NA,NA,Too Few Students
+37,2022,601,Appling County,1050,Altamaha Elementary School,3,E,Economically Disadvantaged,Literacy,NA,NA,46.2
+38,2022,601,Appling County,1050,Altamaha Elementary School,3,E,English Learners,Literacy,NA,NA,Too Few Students
+39,2022,601,Appling County,1050,Altamaha Elementary School,4,E,Hispanic,Literacy,NA,NA,Too Few Students
+40,2022,601,Appling County,1050,Altamaha Elementary School,4,E,Multi-Racial,Literacy,NA,NA,Too Few Students
+41,2022,601,Appling County,1050,Altamaha Elementary School,4,E,Students With Disability,Literacy,NA,NA,33.33
+42,2022,601,Appling County,1050,Altamaha Elementary School,4,E,White,Literacy,NA,NA,50
+43,2022,601,Appling County,5050,Fourth District Elementary School,4,E,ALL Students,Beyond the Core,All,NA,100
+44,2022,601,Appling County,5050,Fourth District Elementary School,4,E,American Indian/Alaskan Native,Beyond the Core,All,NA,NA
+45,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Asian/Pacific Islander,Beyond the Core,All,NA,NA
+46,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Black,Beyond the Core,All,NA,Too Few Students
+47,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Economically Disadvantaged,Beyond the Core,All,NA,100
+48,2022,601,Appling County,5050,Fourth District Elementary School,5,E,English Learners,Beyond the Core,All,NA,Too Few Students
+49,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Hispanic,Beyond the Core,All,NA,100
+50,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Multi-Racial,Beyond the Core,All,NA,Too Few Students
+51,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Students With Disability,Beyond the Core,All,NA,100
+52,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,White,Beyond the Core,All,NA,100
+53,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,ALL Students,Beyond the Core,Computer Science,NA,0
+54,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,American Indian/Alaskan Native,Beyond the Core,Computer Science,NA,NA
+55,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,Asian/Pacific Islander,Beyond the Core,Computer Science,NA,NA
+56,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,Black,Beyond the Core,Computer Science,NA,Too Few Students
+57,2022,601,Appling County,5050,Fourth District Elementary School,PK,E,Economically Disadvantaged,Beyond the Core,Computer Science,NA,0
+58,2022,601,Appling County,5050,Fourth District Elementary School,KK,E,English Learners,Beyond the Core,Computer Science,NA,Too Few Students
+59,2022,601,Appling County,5050,Fourth District Elementary School,KK,E,Hispanic,Beyond the Core,Computer Science,NA,0
+60,2022,601,Appling County,5050,Fourth District Elementary School,KK,E,Multi-Racial,Beyond the Core,Computer Science,NA,Too Few Students
+61,2022,601,Appling County,5050,Fourth District Elementary School,KK,E,Students With Disability,Beyond the Core,Computer Science,NA,0
+62,2022,601,Appling County,5050,Fourth District Elementary School,KK,E,White,Beyond the Core,Computer Science,NA,0
+63,2022,601,Appling County,5050,Fourth District Elementary School,1,E,ALL Students,Beyond the Core,Fine arts,NA,100
+64,2022,601,Appling County,5050,Fourth District Elementary School,1,E,American Indian/Alaskan Native,Beyond the Core,Fine arts,NA,NA
+65,2022,601,Appling County,5050,Fourth District Elementary School,1,E,Asian/Pacific Islander,Beyond the Core,Fine arts,NA,NA
+66,2022,601,Appling County,5050,Fourth District Elementary School,1,E,Black,Beyond the Core,Fine arts,NA,Too Few Students
+67,2022,601,Appling County,5050,Fourth District Elementary School,1,E,Economically Disadvantaged,Beyond the Core,Fine arts,NA,100
+68,2022,601,Appling County,5050,Fourth District Elementary School,1,E,English Learners,Beyond the Core,Fine arts,NA,Too Few Students
+69,2022,601,Appling County,5050,Fourth District Elementary School,1,E,Hispanic,Beyond the Core,Fine arts,NA,100
+70,2022,601,Appling County,5050,Fourth District Elementary School,2,E,Multi-Racial,Beyond the Core,Fine arts,NA,Too Few Students
+71,2022,601,Appling County,5050,Fourth District Elementary School,2,E,Students With Disability,Beyond the Core,Fine arts,NA,100
+72,2022,601,Appling County,5050,Fourth District Elementary School,2,E,White,Beyond the Core,Fine arts,NA,100
+73,2022,601,Appling County,5050,Fourth District Elementary School,2,E,ALL Students,Beyond the Core,World Language,NA,0
+74,2022,601,Appling County,5050,Fourth District Elementary School,2,E,American Indian/Alaskan Native,Beyond the Core,World Language,NA,NA
+75,2022,601,Appling County,5050,Fourth District Elementary School,2,E,Asian/Pacific Islander,Beyond the Core,World Language,NA,NA
+76,2022,601,Appling County,5050,Fourth District Elementary School,3,E,Black,Beyond the Core,World Language,NA,Too Few Students
+77,2022,601,Appling County,5050,Fourth District Elementary School,3,E,Economically Disadvantaged,Beyond the Core,World Language,NA,0
+78,2022,601,Appling County,5050,Fourth District Elementary School,3,E,English Learners,Beyond the Core,World Language,NA,Too Few Students
+79,2022,601,Appling County,5050,Fourth District Elementary School,3,E,Hispanic,Beyond the Core,World Language,NA,0
+80,2022,601,Appling County,5050,Fourth District Elementary School,3,E,Multi-Racial,Beyond the Core,World Language,NA,Too Few Students
+81,2022,601,Appling County,5050,Fourth District Elementary School,3,E,Students With Disability,Beyond the Core,World Language,NA,0
+82,2022,601,Appling County,5050,Fourth District Elementary School,4,E,White,Beyond the Core,World Language,NA,0
+83,2022,601,Appling County,5050,Fourth District Elementary School,4,E,ALL Students,Literacy,NA,NA,45.76
+84,2022,601,Appling County,5050,Fourth District Elementary School,4,E,American Indian/Alaskan Native,Literacy,NA,NA,NA
+85,2022,601,Appling County,5050,Fourth District Elementary School,4,E,Asian/Pacific Islander,Literacy,NA,NA,NA
+86,2022,601,Appling County,5050,Fourth District Elementary School,4,E,Black,Literacy,NA,NA,Too Few Students
+87,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Economically Disadvantaged,Literacy,NA,NA,45.76
+88,2022,601,Appling County,5050,Fourth District Elementary School,5,E,English Learners,Literacy,NA,NA,Too Few Students
+89,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Hispanic,Literacy,NA,NA,Too Few Students
+90,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Multi-Racial,Literacy,NA,NA,Too Few Students
+91,2022,601,Appling County,5050,Fourth District Elementary School,5,E,Students With Disability,Literacy,NA,NA,Too Few Students
+92,2022,601,Appling County,5050,Fourth District Elementary School,5,E,White,Literacy,NA,NA,53.33
+93,2022,601,Appling County,ALL,All Schools,6,E,ALL Students,Beyond the Core,All,NA,100
+94,2022,601,Appling County,ALL,All Schools,6,E,American Indian/Alaskan Native,Beyond the Core,All,NA,NA
+95,2022,601,Appling County,ALL,All Schools,6,E,Asian/Pacific Islander,Beyond the Core,All,NA,Too Few Students
+96,2022,601,Appling County,ALL,All Schools,6,E,Black,Beyond the Core,All,NA,100
+97,2022,601,Appling County,ALL,All Schools,6,E,Economically Disadvantaged,Beyond the Core,All,NA,100
+98,2022,601,Appling County,ALL,All Schools,6,E,English Learners,Beyond the Core,All,NA,100
+99,2022,601,Appling County,ALL,All Schools,6,E,Hispanic,Beyond the Core,All,NA,100
+100,2022,601,Appling County,ALL,All Schools,7,E,Multi-Racial,Beyond the Core,All,NA,100
+101,2022,601,Appling County,ALL,All Schools,7,E,Students With Disability,Beyond the Core,All,NA,100
+102,2022,601,Appling County,ALL,All Schools,7,E,White,Beyond the Core,All,NA,100
+103,2022,601,Appling County,ALL,All Schools,7,E,ALL Students,Beyond the Core,Computer Science,NA,0
+104,2022,601,Appling County,ALL,All Schools,7,E,American Indian/Alaskan Native,Beyond the Core,Computer Science,NA,NA
+105,2022,601,Appling County,ALL,All Schools,7,E,Asian/Pacific Islander,Beyond the Core,Computer Science,NA,Too Few Students
+106,2022,601,Appling County,ALL,All Schools,8,E,Black,Beyond the Core,Computer Science,NA,0
+107,2022,601,Appling County,ALL,All Schools,8,E,Economically Disadvantaged,Beyond the Core,Computer Science,NA,0
+108,2022,601,Appling County,ALL,All Schools,8,E,English Learners,Beyond the Core,Computer Science,NA,0
+109,2022,601,Appling County,ALL,All Schools,8,E,Hispanic,Beyond the Core,Computer Science,NA,0
+110,2022,601,Appling County,ALL,All Schools,8,E,Multi-Racial,Beyond the Core,Computer Science,NA,0
+111,2022,601,Appling County,ALL,All Schools,8,E,Students With Disability,Beyond the Core,Computer Science,NA,0
+112,2022,601,Appling County,ALL,All Schools,8,E,White,Beyond the Core,Computer Science,NA,0
+113,2022,601,Appling County,ALL,All Schools,8,E,ALL Students,Beyond the Core,Fine arts,NA,100
+114,2022,601,Appling County,ALL,All Schools,9,E,American Indian/Alaskan Native,Beyond the Core,Fine arts,NA,NA
+115,2022,601,Appling County,ALL,All Schools,9,E,Asian/Pacific Islander,Beyond the Core,Fine arts,NA,Too Few Students
+116,2022,601,Appling County,ALL,All Schools,9,E,Black,Beyond the Core,Fine arts,NA,100
+117,2022,601,Appling County,ALL,All Schools,9,E,Economically Disadvantaged,Beyond the Core,Fine arts,NA,100
+118,2022,601,Appling County,ALL,All Schools,9,E,English Learners,Beyond the Core,Fine arts,NA,100
+119,2022,601,Appling County,ALL,All Schools,9,E,Hispanic,Beyond the Core,Fine arts,NA,100
+120,2022,601,Appling County,ALL,All Schools,9,E,Multi-Racial,Beyond the Core,Fine arts,NA,100
+121,2022,601,Appling County,ALL,All Schools,10,E,Students With Disability,Beyond the Core,Fine arts,NA,100
+122,2022,601,Appling County,ALL,All Schools,10,E,White,Beyond the Core,Fine arts,NA,100
+123,2022,601,Appling County,ALL,All Schools,10,E,ALL Students,Beyond the Core,World Language,NA,0
+124,2022,601,Appling County,ALL,All Schools,10,E,American Indian/Alaskan Native,Beyond the Core,World Language,NA,NA
+125,2022,601,Appling County,ALL,All Schools,10,E,Asian/Pacific Islander,Beyond the Core,World Language,NA,Too Few Students
+126,2022,601,Appling County,ALL,All Schools,10,E,Black,Beyond the Core,World Language,NA,0
+127,2022,601,Appling County,ALL,All Schools,10,E,Economically Disadvantaged,Beyond the Core,World Language,NA,0
+128,2022,601,Appling County,ALL,All Schools,10,E,English Learners,Beyond the Core,World Language,NA,0
+129,2022,601,Appling County,ALL,All Schools,10,E,Hispanic,Beyond the Core,World Language,NA,0
+130,2022,601,Appling County,ALL,All Schools,11,E,Multi-Racial,Beyond the Core,World Language,NA,0
+131,2022,601,Appling County,ALL,All Schools,11,E,Students With Disability,Beyond the Core,World Language,NA,0
+132,2022,601,Appling County,ALL,All Schools,11,E,White,Beyond the Core,World Language,NA,0
+133,2022,601,Appling County,ALL,All Schools,11,E,ALL Students,Literacy,NA,NA,46.35
+134,2022,601,Appling County,ALL,All Schools,11,E,American Indian/Alaskan Native,Literacy,NA,NA,NA
+135,2022,601,Appling County,ALL,All Schools,11,E,Asian/Pacific Islander,Literacy,NA,NA,Too Few Students
+136,2022,601,Appling County,ALL,All Schools,11,E,Black,Literacy,NA,NA,29.1
+137,2022,601,Appling County,ALL,All Schools,12,E,Economically Disadvantaged,Literacy,NA,NA,46.35
+138,2022,601,Appling County,ALL,All Schools,12,E,English Learners,Literacy,NA,NA,38.6
+139,2022,601,Appling County,ALL,All Schools,12,E,Hispanic,Literacy,NA,NA,40.88
+140,2022,601,Appling County,ALL,All Schools,12,E,Multi-Racial,Literacy,NA,NA,24
+141,2022,601,Appling County,ALL,All Schools,12,E,Students With Disability,Literacy,NA,NA,24
+142,2022,601,Appling County,ALL,All Schools,12,E,White,Literacy,NA,NA,55.11
+143,2022,601,Appling County,ALL,All Schools,12,H,ALL Students,Accelerated Enrollment,All,53.28,97.35
+144,2022,601,Appling County,ALL,All Schools,12,H,American Indian/Alaskan Native,Accelerated Enrollment,All,Too Few Students,Too Few Students
+145,2022,601,Appling County,ALL,All Schools,12,H,Asian/Pacific Islander,Accelerated Enrollment,All,Too Few Students,Too Few Students
+146,2022,601,Appling County,ALL,All Schools,12,H,Black,Accelerated Enrollment,All,20.83,38.06
+147,2022,601,Appling County,ALL,All Schools,12,H,Economically Disadvantaged,Accelerated Enrollment,All,53.28,97.35
+148,2022,601,Appling County,ALL,All Schools,12,H,English Learners,Accelerated Enrollment,All,Too Few Students,Too Few Students
+149,2022,601,Appling County,ALL,All Schools,12,H,Hispanic,Accelerated Enrollment,All,66.67,100
+150,2022,601,Appling County,ALL,All Schools,PK,H,Multi-Racial,Accelerated Enrollment,All,Too Few Students,Too Few Students
+151,2022,601,Appling County,ALL,All Schools,PK,H,Students With Disability,Accelerated Enrollment,All,50,91.36
+152,2022,601,Appling County,ALL,All Schools,PK,H,White,Accelerated Enrollment,All,61.54,100
+153,2022,601,Appling County,ALL,All Schools,PK,H,ALL Students,Accelerated Enrollment,Advanced Placement,22.27,40.69
+154,2022,601,Appling County,ALL,All Schools,PK,H,American Indian/Alaskan Native,Accelerated Enrollment,Advanced Placement,Too Few Students,Too Few Students
+155,2022,601,Appling County,ALL,All Schools,PK,H,Asian/Pacific Islander,Accelerated Enrollment,Advanced Placement,Too Few Students,Too Few Students
+156,2022,601,Appling County,ALL,All Schools,PK,H,Black,Accelerated Enrollment,Advanced Placement,6.25,11.42
+157,2022,601,Appling County,ALL,All Schools,PK,H,Economically Disadvantaged,Accelerated Enrollment,Advanced Placement,22.27,40.69
+158,2022,601,Appling County,ALL,All Schools,PK,H,English Learners,Accelerated Enrollment,Advanced Placement,Too Few Students,Too Few Students
+159,2022,601,Appling County,ALL,All Schools,PK,H,Hispanic,Accelerated Enrollment,Advanced Placement,33.33,60.9
+160,2022,601,Appling County,ALL,All Schools,PK,H,Multi-Racial,Accelerated Enrollment,Advanced Placement,Too Few Students,Too Few Students
+161,2022,601,Appling County,ALL,All Schools,KK,H,Students With Disability,Accelerated Enrollment,Advanced Placement,0,0
+162,2022,601,Appling County,ALL,All Schools,KK,H,White,Accelerated Enrollment,Advanced Placement,25.87,47.27
+163,2022,601,Appling County,ALL,All Schools,KK,H,ALL Students,Accelerated Enrollment,Dual Enrollment,44.54,81.38
+164,2022,601,Appling County,ALL,All Schools,KK,H,American Indian/Alaskan Native,Accelerated Enrollment,Dual Enrollment,Too Few Students,Too Few Students
+165,2022,601,Appling County,ALL,All Schools,KK,H,Asian/Pacific Islander,Accelerated Enrollment,Dual Enrollment,Too Few Students,Too Few Students
+166,2022,601,Appling County,ALL,All Schools,KK,H,Black,Accelerated Enrollment,Dual Enrollment,16.67,30.46
+167,2022,601,Appling County,ALL,All Schools,KK,H,Economically Disadvantaged,Accelerated Enrollment,Dual Enrollment,44.54,81.38
+168,2022,601,Appling County,ALL,All Schools,KK,H,English Learners,Accelerated Enrollment,Dual Enrollment,Too Few Students,Too Few Students
+169,2022,601,Appling County,ALL,All Schools,KK,H,Hispanic,Accelerated Enrollment,Dual Enrollment,50,91.36
+170,2022,601,Appling County,ALL,All Schools,1,H,Multi-Racial,Accelerated Enrollment,Dual Enrollment,Too Few Students,Too Few Students
+171,2022,601,Appling County,ALL,All Schools,1,H,Students With Disability,Accelerated Enrollment,Dual Enrollment,39.29,71.79
+172,2022,601,Appling County,ALL,All Schools,1,H,White,Accelerated Enrollment,Dual Enrollment,52.45,95.83
+173,2022,601,Appling County,ALL,All Schools,1,H,ALL Students,Accelerated Enrollment,International Baccalaureate,1.31,2.39
+174,2022,601,Appling County,ALL,All Schools,1,H,American Indian/Alaskan Native,Accelerated Enrollment,International Baccalaureate,Too Few Students,Too Few Students
+175,2022,601,Appling County,ALL,All Schools,1,H,Asian/Pacific Islander,Accelerated Enrollment,International Baccalaureate,Too Few Students,Too Few Students
+176,2022,601,Appling County,ALL,All Schools,1,H,Black,Accelerated Enrollment,International Baccalaureate,2.08,3.8
+177,2022,601,Appling County,ALL,All Schools,1,H,Economically Disadvantaged,Accelerated Enrollment,International Baccalaureate,1.31,2.39
+178,2022,601,Appling County,ALL,All Schools,1,H,English Learners,Accelerated Enrollment,International Baccalaureate,Too Few Students,Too Few Students
+179,2022,601,Appling County,ALL,All Schools,1,H,Hispanic,Accelerated Enrollment,International Baccalaureate,0,0
+180,2022,601,Appling County,ALL,All Schools,2,H,Multi-Racial,Accelerated Enrollment,International Baccalaureate,Too Few Students,Too Few Students
+181,2022,601,Appling County,ALL,All Schools,2,H,Students With Disability,Accelerated Enrollment,International Baccalaureate,10.71,19.57
+182,2022,601,Appling County,ALL,All Schools,2,H,White,Accelerated Enrollment,International Baccalaureate,1.4,2.56
+183,2022,601,Appling County,ALL,All Schools,2,H,ALL Students,Literacy,NA,NA,53.04
+184,2022,601,Appling County,ALL,All Schools,2,H,American Indian/Alaskan Native,Literacy,NA,NA,NA
+185,2022,601,Appling County,ALL,All Schools,2,H,Asian/Pacific Islander,Literacy,NA,NA,NA
+186,2022,601,Appling County,ALL,All Schools,2,H,Black,Literacy,NA,NA,26.42
+187,2022,601,Appling County,ALL,All Schools,2,H,Economically Disadvantaged,Literacy,NA,NA,53.04
+188,2022,601,Appling County,ALL,All Schools,3,H,English Learners,Literacy,NA,NA,Too Few Students
+189,2022,601,Appling County,ALL,All Schools,3,H,Hispanic,Literacy,NA,NA,43.9
+190,2022,601,Appling County,ALL,All Schools,3,H,Multi-Racial,Literacy,NA,NA,Too Few Students
+191,2022,601,Appling County,ALL,All Schools,3,H,Students With Disability,Literacy,NA,NA,Too Few Students
+192,2022,601,Appling County,ALL,All Schools,3,H,White,Literacy,NA,NA,66.2
+193,2022,601,Appling County,ALL,All Schools,3,H,ALL Students,Pathway Completion,Advanced academic,NA,33.63
+194,2022,601,Appling County,ALL,All Schools,3,H,American Indian/Alaskan Native,Pathway Completion,Advanced academic,NA,Too Few Students
+195,2022,601,Appling County,ALL,All Schools,3,H,Asian/Pacific Islander,Pathway Completion,Advanced academic,NA,Too Few Students
+196,2022,601,Appling County,ALL,All Schools,3,H,Black,Pathway Completion,Advanced academic,NA,8.51
+197,2022,601,Appling County,ALL,All Schools,3,H,Economically Disadvantaged,Pathway Completion,Advanced academic,NA,33.63
+198,2022,601,Appling County,ALL,All Schools,3,H,English Learners,Pathway Completion,Advanced academic,NA,Too Few Students
+199,2022,601,Appling County,ALL,All Schools,4,H,Hispanic,Pathway Completion,Advanced academic,NA,37.93
+200,2022,601,Appling County,ALL,All Schools,4,H,Multi-Racial,Pathway Completion,Advanced academic,NA,Too Few Students
+201,2022,601,Appling County,ALL,All Schools,4,H,Students With Disability,Pathway Completion,Advanced academic,NA,0
+202,2022,601,Appling County,ALL,All Schools,4,H,White,Pathway Completion,Advanced academic,NA,41.55
+203,2022,601,Appling County,ALL,All Schools,4,H,ALL Students,Pathway Completion,All,NA,78.32
+204,2022,601,Appling County,ALL,All Schools,4,H,American Indian/Alaskan Native,Pathway Completion,All,NA,Too Few Students
+205,2022,601,Appling County,ALL,All Schools,4,H,Asian/Pacific Islander,Pathway Completion,All,NA,Too Few Students
+206,2022,601,Appling County,ALL,All Schools,4,H,Black,Pathway Completion,All,NA,63.83
+207,2022,601,Appling County,ALL,All Schools,5,H,Economically Disadvantaged,Pathway Completion,All,NA,78.32
+208,2022,601,Appling County,ALL,All Schools,5,H,English Learners,Pathway Completion,All,NA,Too Few Students
+209,2022,601,Appling County,ALL,All Schools,5,H,Hispanic,Pathway Completion,All,NA,75.86
+210,2022,601,Appling County,ALL,All Schools,5,H,Multi-Racial,Pathway Completion,All,NA,Too Few Students
+211,2022,601,Appling County,ALL,All Schools,5,H,Students With Disability,Pathway Completion,All,NA,50
+212,2022,601,Appling County,ALL,All Schools,9,H,White,Pathway Completion,All,NA,85.21
+213,2022,601,Appling County,ALL,All Schools,9,H,ALL Students,Pathway Completion,CTAE,NA,57.96
+214,2022,601,Appling County,ALL,All Schools,9,H,American Indian/Alaskan Native,Pathway Completion,CTAE,NA,Too Few Students
+215,2022,601,Appling County,ALL,All Schools,9,H,Asian/Pacific Islander,Pathway Completion,CTAE,NA,Too Few Students
+216,2022,601,Appling County,ALL,All Schools,9,H,Black,Pathway Completion,CTAE,NA,48.94
+217,2022,601,Appling County,ALL,All Schools,5,H,Economically Disadvantaged,Pathway Completion,CTAE,NA,57.96
+218,2022,601,Appling County,ALL,All Schools,6,H,English Learners,Pathway Completion,CTAE,NA,Too Few Students
+219,2022,601,Appling County,ALL,All Schools,6,H,Hispanic,Pathway Completion,CTAE,NA,55.17
+220,2022,601,Appling County,ALL,All Schools,6,H,Multi-Racial,Pathway Completion,CTAE,NA,Too Few Students
+221,2022,601,Appling County,ALL,All Schools,6,H,Students With Disability,Pathway Completion,CTAE,NA,39.29
+222,2022,601,Appling County,ALL,All Schools,7,H,White,Pathway Completion,CTAE,NA,62.68
+223,2022,601,Appling County,ALL,All Schools,7,H,ALL Students,Pathway Completion,Fine arts,NA,20.8
+224,2022,601,Appling County,ALL,All Schools,7,H,American Indian/Alaskan Native,Pathway Completion,Fine arts,NA,Too Few Students
+225,2022,601,Appling County,ALL,All Schools,7,H,Asian/Pacific Islander,Pathway Completion,Fine arts,NA,Too Few Students
+226,2022,601,Appling County,ALL,All Schools,10,H,Black,Pathway Completion,Fine arts,NA,14.89
+227,2022,601,Appling County,ALL,All Schools,10,H,Economically Disadvantaged,Pathway Completion,Fine arts,NA,20.8
+228,2022,601,Appling County,ALL,All Schools,10,H,English Learners,Pathway Completion,Fine arts,NA,Too Few Students
+229,2022,601,Appling County,ALL,All Schools,11,H,Hispanic,Pathway Completion,Fine arts,NA,20.69
+230,2022,601,Appling County,ALL,All Schools,11,H,Multi-Racial,Pathway Completion,Fine arts,NA,Too Few Students
+231,2022,601,Appling County,ALL,All Schools,11,H,Students With Disability,Pathway Completion,Fine arts,NA,10.71
+232,2022,601,Appling County,ALL,All Schools,12,H,White,Pathway Completion,Fine arts,NA,23.94
