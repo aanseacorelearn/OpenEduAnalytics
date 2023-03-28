@@ -57,7 +57,7 @@ graduationRatesbySubgroup,,,
 ,School Name,string,no-op
 ,Reporting Label,string,no-op
 ,Graduation Rate,string,no-op
-progressTowardsEnglishLanguageProficiency,,,
+progressTowardsEngLangProfibySubgr,,,
 ,id,string,hash
 ,School Year,integer,partition-by
 ,System ID,string,no-op
