@@ -88,7 +88,7 @@
 				"typeProperties": {
 					"variableName": "rundate",
 					"value": {
-						"value": "@utcNow(pipeline().parameters.datetimeFormat)",
+						"value": "@utcNow('yyyy-MM-dd HH:mm:ss')",
 						"type": "Expression"
 					}
 				}
@@ -110,7 +110,7 @@
 		"parameters": {
 			"URL": {
 				"type": "string",
-				"defaultValue": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/students/part1.csv"
+				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/students/part1.csv"
 			},
 			"workspace": {
 				"type": "string",
@@ -127,10 +127,6 @@
 			"batchType": {
 				"type": "string",
 				"defaultValue": "snapshot"
-			},
-			"datetimeFormat": {
-				"type": "string",
-				"defaultValue": "yyyy-MM-dd HH:mm:ss"
 			}
 		},
 		"variables": {
@@ -145,7 +141,7 @@
 			"name": "OEA_Framework"
 		},
 		"annotations": [],
-		"lastPublishTime": "2022-11-18T22:13:01Z"
+		"lastPublishTime": "2022-11-15T20:45:38Z"
 	},
 	"type": "Microsoft.Synapse/workspaces/pipelines"
 }

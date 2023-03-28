@@ -14,7 +14,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/studentattendance/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/studentattendance/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -40,7 +40,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/students/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/students/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
@@ -66,7 +66,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/studentsectionmark/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/studentsectionmark/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"

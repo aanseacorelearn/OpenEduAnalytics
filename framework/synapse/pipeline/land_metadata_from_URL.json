@@ -88,7 +88,7 @@
 		"parameters": {
 			"URL": {
 				"type": "string",
-				"defaultValue": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv"
+				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv"
 			},
 			"workspace": {
 				"type": "string",

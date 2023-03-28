@@ -3,7 +3,7 @@
     "properties": {
         "description": "Used for landing data in the data lake as in parquet format.\nDefaults to landing data in stage1np.\nNote that you cannot specify a filename because with parquet the filename should be auto-generated.\n",
         "linkedServiceName": {
-            "referenceName": "LS_Datalake",
+            "referenceName": "LS_ADLS_OEA",
             "type": "LinkedServiceReference"
         },
         "parameters": {

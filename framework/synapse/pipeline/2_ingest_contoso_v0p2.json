@@ -14,7 +14,7 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
