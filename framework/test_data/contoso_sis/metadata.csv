@@ -50,7 +50,7 @@ demographics,,,
 ,Students with Disability,string,no-op
 graduationRatesbySubgroup,,,
 ,id,string,hash
-,Reporting Level,string,hash
+,Reporting Level,string,no-op
 ,System ID,string,no-op
 ,School ID,string,no-op
 ,System Name,string,no-op
@@ -84,5 +84,5 @@ readinessIndicatorsbySubgroup,,,
 ,Reporting Label,string,no-op
 ,Indicator,string,no-op
 ,Sub-Indicator,string,no-op
-,Unbenchmarked Rate (Accelerated Enrollment),string,no-op
+,Unbenchmarked Rate,string,no-op
 ,Indicator Score,string,no-op
