@@ -45,7 +45,7 @@
                 }
             },
             {
-                "name": "refine_progressTowardsEnglishLanguageProficiency",
+                "name": "refine_progressTowardsEngLangProfibySubgr",
                 "type": "ExecutePipeline",
                 "dependsOn": [],
                 "userProperties": [],
@@ -60,7 +60,7 @@
                             "value": "@pipeline().parameters.workspace",
                             "type": "Expression"
                         },
-                        "entityPath": "contoso/v0.1/progressTowardsEnglishLanguageProficiency",
+                        "entityPath": "contoso/v0.1/progressTowardsEngLangProfibySubgr",
                         "primaryKey": "id"
                     }
                 }
@@ -145,7 +145,7 @@
                         ]
                     },
                     {
-                        "activity": "refine_progressTowardsEnglishLanguageProficiency",
+                        "activity": "refine_progressTowardsEngLangProfibySubgr",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
@@ -204,7 +204,7 @@
                         ]
                     },
                     {
-                        "activity": "refine_progressTowardsEnglishLanguageProficiency",
+                        "activity": "refine_progressTowardsEngLangProfibySubgr",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
