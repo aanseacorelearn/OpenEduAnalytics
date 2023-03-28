@@ -1,43 +1,88 @@
 Entity Name,Attribute Name,Attribute Data Type,Pseudonymization
-studentattendance,,,
+cohortGraduationRateStateDistrictSchoolbySubgroup,,,
 ,id,string,hash
-,system_id,string,no-op
-,system_name,string,no-op
-,school_year,integer,partition-by
-,school_id,string,no-op
-,school_name,string,no-op
-,grade_configuration,string,no-op
-,grade_cluster,string,no-op
-,reporting_label,string,no-op
-,graduation_rate_type,string,no-op
-,graduation_rate,string,no-op
-studentsectionmark,,,
+,Reporting Level,string,no-op
+,System ID,string,no-op
+,School ID,string,no-op
+,System Name,string,no-op
+,School Name,string,no-op
+,Reporting Label,string,no-op
+,Graduation Class Size,string,no-op
+,Total Graduated,string,no-op
+,Graduation Rate,string,no-op
+contentMasteryBySubgroup,,,
 ,id,string,hash
-,school_year,integer,partition-by
-,system_id,string,no-op
-,system_name,string,no-op
-,school_id,string,no-op
-,school_name,short,no-op
-,grade_configuration,string,no-op
-,grade_cluster,string,no-op
-,content_mastery,string,no-op
-,progress,string,no-op
-,closing_gaps,string,no-op
-,readiness,string,no-op
-,graduation_rate,string,no-op
-,CCRPI_Score,string,no-op
-,single_score,string,no-op
-students,,,
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,short,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,Content Area,string,no-op
+,Participation Rate,string,no-op
+,Beginning Learner or Level 1,string,no-op
+,Developing Learner or Level 2,string,no-op
+,Proficient Learner or Level 3,string,no-op
+,Distinguished Learner or Level 4,string,no-op
+,Indicator Score,string,no-op
+demographics,,,
 ,id,string,hash
-,school_year,integer,partition-by
-,system_id,string,no-op
-,system_name,string,no-op
-,school_id,string,no-op
-,school_name,string,no-op
-,grade_configuration,string,no-op
-,grade_cluster,string,no-op
-,reporting_label,string,no-op
-,indicator,string,no-op
-,sub_indicator,string,no-op
-,unbenchmarked_rate,string,no-op
-,indicator_score,string,no-op
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Number of Students Enrolled,string,no-op
+,Number of Schools,string,no-op
+,Title I Status,string,no-op
+,Asian_Pacific Islander,string,no-op
+,American Indian_Alaskan,string,no-op
+,Black,string,no-op
+,Hispanic,string,no-op
+,Multi-Racial,string,no-op
+,White,string,no-op
+,Economically Disadvantaged,string,no-op
+,English Learners,string,no-op
+,Students with Disability,string,no-op
+graduationRatesbySubgroup,,,
+,id,string,hash
+,Reporting Level,string,hash
+,System ID,string,no-op
+,School ID,string,no-op
+,System Name,string,no-op
+,School Name,string,no-op
+,Reporting Label,string,no-op
+,Graduation Rate,string,no-op
+progressTowardsEnglishLanguageProficiency,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,No Positive Movement,string,no-op
+,Moved Less Than One Band,string,no-op
+,Moved One Band,string,no-op
+,Moved More Than One Band,string,no-op
+,Progress Towards ELP Rate,string,no-op
+readinessIndicatorsbySubgroup,,,
+,id,string,hash
+,School Year,integer,partition-by
+,System ID,string,no-op
+,System Name,string,no-op
+,School ID,string,no-op
+,School Name,string,no-op
+,Grade Configuration,string,no-op
+,Grade Cluster,string,no-op
+,Reporting Label,string,no-op
+,Indicator,string,no-op
+,Sub-Indicator,string,no-op
+,Unbenchmarked Rate (Accelerated Enrollment),string,no-op
+,Indicator Score,string,no-op
