@@ -1,4 +1,10 @@
 Entity Name,Attribute Name,Attribute Data Type,Pseudonymization
+studentattendance,,,
+,id,string,hash
+,school_year,integer,partition-by
+studentsectionmark,,,
+,id,string,hash
+,school_year,integer,partition-by
 students,,,
 ,id,string,hash
 ,school_year,integer,partition-by
