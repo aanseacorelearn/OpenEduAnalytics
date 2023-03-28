@@ -24,7 +24,7 @@
 				}
 			},
 			{
-				"name": "ingest_students",
+				"name": "ingest_contentMasteryBySubgroup",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
@@ -46,13 +46,13 @@
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
-						"entityPath": "contoso/v0.1/students",
+						"entityPath": "contoso/v0.1/contentMasteryBySubgroup",
 						"primaryKey": "id"
 					}
 				}
 			},
 			{
-				"name": "ingest_studentattendance",
+				"name": "ingest_readinessIndicatorsbySubgroup",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
@@ -74,13 +74,13 @@
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
-						"entityPath": "contoso/v0.1/studentattendance",
+						"entityPath": "contoso/v0.1/readinessIndicatorsbySubgroup",
 						"primaryKey": "id"
 					}
 				}
 			},
 			{
-				"name": "ingest_studentsectionmark",
+				"name": "ingest_progressTowardsEnglishLanguageProficiency",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
@@ -102,7 +102,91 @@
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
-						"entityPath": "contoso/v0.1/studentsectionmark",
+						"entityPath": "contoso/v0.1/progressTowardsEnglishLanguageProficiency",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_demographics",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/demographics",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_graduationRatesbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/graduationRatesbySubgroup",
+						"primaryKey": "id"
+					}
+				}
+			},
+			{
+				"name": "ingest_cohortGraduationRateStateDistrictSchoolbySubgroup",
+				"type": "ExecutePipeline",
+				"dependsOn": [
+					{
+						"activity": "land_metadata_from_URL",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"pipeline": {
+						"referenceName": "ingest",
+						"type": "PipelineReference"
+					},
+					"waitOnCompletion": true,
+					"parameters": {
+						"workspace": {
+							"value": "@pipeline().parameters.workspace",
+							"type": "Expression"
+						},
+						"entityPath": "contoso/v0.1/cohortGraduationRateStateDistrictSchoolbySubgroup",
 						"primaryKey": "id"
 					}
 				}
@@ -112,19 +196,37 @@
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
-						"activity": "ingest_students",
+						"activity": "ingest_contentMasteryBySubgroup",
 						"dependencyConditions": [
 							"Succeeded"
 						]
 					},
 					{
-						"activity": "ingest_studentattendance",
+						"activity": "ingest_readinessIndicatorsbySubgroup",
 						"dependencyConditions": [
 							"Succeeded"
 						]
 					},
 					{
-						"activity": "ingest_studentsectionmark",
+						"activity": "ingest_progressTowardsEnglishLanguageProficiency",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_demographics",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_graduationRatesbySubgroup",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					},
+					{
+						"activity": "ingest_cohortGraduationRateStateDistrictSchoolbySubgroup",
 						"dependencyConditions": [
 							"Succeeded"
 						]

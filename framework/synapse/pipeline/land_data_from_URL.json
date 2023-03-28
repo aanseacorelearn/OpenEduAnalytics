@@ -110,7 +110,7 @@
 		"parameters": {
 			"URL": {
 				"type": "string",
-				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/day1/students/part1.csv"
+				"defaultValue": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/2021/contentMasteryBySubgroup/part1.csv"
 			},
 			"workspace": {
 				"type": "string",
@@ -118,7 +118,7 @@
 			},
 			"sinkPath": {
 				"type": "string",
-				"defaultValue": "contoso/v0.1/students"
+				"defaultValue": "contoso/v0.1/contentMasteryBySubgroup"
 			},
 			"sinkFilename": {
 				"type": "string",

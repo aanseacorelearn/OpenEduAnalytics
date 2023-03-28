@@ -59,7 +59,7 @@
 			},
 			"entityPath": {
 				"type": "string",
-				"defaultValue": "contoso/v0.1/students"
+				"defaultValue": "contoso/v0.1/contentMasteryBySubgroup"
 			},
 			"primaryKey": {
 				"type": "string",
