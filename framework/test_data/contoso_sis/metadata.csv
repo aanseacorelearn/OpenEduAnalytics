@@ -16,7 +16,7 @@ contentMasteryBySubgroup,,,
 ,System ID,string,no-op
 ,System Name,string,no-op
 ,School ID,string,no-op
-,School Name,short,no-op
+,School Name,string,no-op
 ,Grade Configuration,string,no-op
 ,Grade Cluster,string,no-op
 ,Reporting Label,string,no-op
