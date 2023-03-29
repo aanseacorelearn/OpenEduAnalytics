@@ -164,7 +164,7 @@
 				}
 			},
 			{
-				"name": "ingest_cohortGraduationRateStateDistrictSchoolbySubgroup",
+				"name": "ingest_cohortGraduRateStDistSchoolSubgrp",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
@@ -186,7 +186,7 @@
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
-						"entityPath": "contoso/v0.1/cohortGraduationRateStateDistrictSchoolbySubgroup",
+						"entityPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
 						"primaryKey": "id"
 					}
 				}
@@ -226,7 +226,7 @@
 						]
 					},
 					{
-						"activity": "ingest_cohortGraduationRateStateDistrictSchoolbySubgroup",
+						"activity": "ingest_cohortGraduRateStDistSchoolSubgrp",
 						"dependencyConditions": [
 							"Succeeded"
 						]

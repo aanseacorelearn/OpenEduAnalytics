@@ -133,7 +133,7 @@
 				}
 			},
 			{
-				"name": "land_cohortGraduationRateStateDistrictSchoolbySubgroup",
+				"name": "land_cohortGraduRateStDistSchoolSubgrp",
 				"type": "ExecutePipeline",
 				"dependsOn": [],
 				"userProperties": [],
@@ -144,12 +144,12 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/2021/cohortGraduationRateStateDistrictSchoolbySubgroup/part1.csv",
+						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/2021/cohortGraduRateStDistSchoolSubgrp/part1.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
-						"sinkPath": "contoso/v0.1/cohortGraduationRateStateDistrictSchoolbySubgroup",
+						"sinkPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
 						"sinkFilename": {
 							"value": "@pipeline().parameters.defaultFilename",
 							"type": "Expression"
