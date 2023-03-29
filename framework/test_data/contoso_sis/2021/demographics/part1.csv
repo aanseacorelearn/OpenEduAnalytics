@@ -1,4 +1,4 @@
-id,School Year,System ID,System Name,School ID,School Name,Grade Configuration,Grade Cluster,Number of Students Enrolled,Number of Schools,Title I Status,Asian_Pacific Islander,American Indian_Alaskan,Black,Hispanic,Multi-Racial,White,Economically Disadvantaged,English Learners,Students with Disability
+id,School Year,System ID,System Name,School ID,School Name,Grade Configuration,Grade Cluster,Students Enrolled,Number of Schools,Title Status,Asian Pacific Islander,American Indian Alaskan,Black,Hispanic,Multi Racial,White,Economically Disadvantaged,English Learners,Students with Disability
 1,2021,601,Appling County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",ALL,3495,6,100.00%,0.50%,0.10%,22.40%,17.10%,4.10%,55.80%,100.00%,10.80%,15.70%
 2,2021,601,Appling County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",E,1571,4,100.00%,0.30%,0.00%,21.70%,18.10%,4.40%,55.40%,100.00%,14.80%,16.80%
 3,2021,601,Appling County,ALL,All Schools,"PK, KK, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12",H,1049,1,100.00%,0.90%,0.20%,23.00%,14.80%,3.50%,57.70%,100.00%,3.40%,13.30%
