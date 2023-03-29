@@ -108,7 +108,7 @@
                 }
             },
             {
-                "name": "refine_cohortGraduationRateStateDistrictSchoolbySubgroup",
+                "name": "refine_cohortGraduRateStDistSchoolSubgrp",
                 "type": "ExecutePipeline",
                 "dependsOn": [],
                 "userProperties": [],
@@ -123,7 +123,7 @@
                             "value": "@pipeline().parameters.workspace",
                             "type": "Expression"
                         },
-                        "entityPath": "contoso/v0.1/cohortGraduationRateStateDistrictSchoolbySubgroup",
+                        "entityPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
                         "primaryKey": "id"
                     }
                 }
@@ -163,7 +163,7 @@
                         ]
                     },
                     {
-                        "activity": "refine_cohortGraduationRateStateDistrictSchoolbySubgroup",
+                        "activity": "refine_cohortGraduRateStDistSchoolSubgrp",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
@@ -222,7 +222,7 @@
                         ]
                     },
                     {
-                        "activity": "refine_cohortGraduationRateStateDistrictSchoolbySubgroup",
+                        "activity": "refine_cohortGraduRateStDistSchoolSubgrp",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
