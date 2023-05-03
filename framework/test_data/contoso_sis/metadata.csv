@@ -1,15 +1,4 @@
 Entity Name,Attribute Name,Attribute Data Type,Pseudonymization
-cohortGraduRateStDistSchoolSubgrp,,,
-,id,string,hash
-,Reporting Level,string,no-op
-,System ID,string,no-op
-,School ID,string,no-op
-,System Name,string,no-op
-,School Name,string,no-op
-,Reporting Label,string,no-op
-,Graduation Class Size,string,no-op
-,Total Graduated,string,no-op
-,Graduation Rate,string,no-op
 contentMasteryBySubgroup,,,
 ,id,string,hash
 ,School Year,integer,partition-by
@@ -48,16 +37,6 @@ demographics,,,
 ,Economically Disadvantaged,string,no-op
 ,English Learners,string,no-op
 ,Students with Disability,string,no-op
-graduationRatesbySubgroup,,,
-,id,string,hash
-,Reporting Level,string,no-op
-,Reporting Level,string,no-op
-,System ID,string,no-op
-,School ID,string,no-op
-,System Name,string,no-op
-,School Name,string,no-op
-,Reporting Label,string,no-op
-,Graduation Rate,string,no-op
 progressTowardsEngLangProfibySubgr,,,
 ,id,string,hash
 ,School Year,integer,partition-by

@@ -53,7 +53,7 @@
 						"batchType": "delta"
 					}
 				}
-			},
+			},			
 			{
 				"name": "land_progressTowardsEngLangProfibySubgr",
 				"type": "ExecutePipeline",
@@ -105,59 +105,7 @@
 						"batchType": "snapshot"
 					}
 				}
-			},
-			{
-				"name": "land_graduationRatesbySubgroup",
-				"type": "ExecutePipeline",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"pipeline": {
-						"referenceName": "land_data_from_URL",
-						"type": "PipelineReference"
-					},
-					"waitOnCompletion": true,
-					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/2021/graduationRatesbySubgroup/part1.csv",
-						"workspace": {
-							"value": "@pipeline().parameters.workspace",
-							"type": "Expression"
-						},
-						"sinkPath": "contoso/v0.1/graduationRatesbySubgroup",
-						"sinkFilename": {
-							"value": "@pipeline().parameters.defaultFilename",
-							"type": "Expression"
-						},
-						"batchType": "snapshot"
-					}
-				}
-			},
-			{
-				"name": "land_cohortGraduRateStDistSchoolSubgrp",
-				"type": "ExecutePipeline",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"pipeline": {
-						"referenceName": "land_data_from_URL",
-						"type": "PipelineReference"
-					},
-					"waitOnCompletion": true,
-					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/2021/cohortGraduRateStDistSchoolSubgrp/part1.csv",
-						"workspace": {
-							"value": "@pipeline().parameters.workspace",
-							"type": "Expression"
-						},
-						"sinkPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
-						"sinkFilename": {
-							"value": "@pipeline().parameters.defaultFilename",
-							"type": "Expression"
-						},
-						"batchType": "snapshot"
-					}
-				}
-			}
+			}	
 		],
 		"parameters": {
 			"workspace": {

@@ -14,14 +14,14 @@
 					},
 					"waitOnCompletion": true,
 					"parameters": {
-						"URL": "https://raw.githubusercontent.com/aanseacorelearn/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv",
+						"URL": "https://raw.githubusercontent.com/microsoft/OpenEduAnalytics/main/framework/test_data/contoso_sis/metadata.csv",
 						"workspace": {
 							"value": "@pipeline().parameters.workspace",
 							"type": "Expression"
 						},
 						"sinkPath": "contoso/v0.1"
 					}
-				}
+				} 
 			},
 			{
 				"name": "ingest_contentMasteryBySubgroup",
@@ -136,62 +136,6 @@
 				}
 			},
 			{
-				"name": "ingest_graduationRatesbySubgroup",
-				"type": "ExecutePipeline",
-				"dependsOn": [
-					{
-						"activity": "land_metadata_from_URL",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"userProperties": [],
-				"typeProperties": {
-					"pipeline": {
-						"referenceName": "ingest",
-						"type": "PipelineReference"
-					},
-					"waitOnCompletion": true,
-					"parameters": {
-						"workspace": {
-							"value": "@pipeline().parameters.workspace",
-							"type": "Expression"
-						},
-						"entityPath": "contoso/v0.1/graduationRatesbySubgroup",
-						"primaryKey": "id"
-					}
-				}
-			},
-			{
-				"name": "ingest_cohortGraduRateStDistSchoolSubgrp",
-				"type": "ExecutePipeline",
-				"dependsOn": [
-					{
-						"activity": "land_metadata_from_URL",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"userProperties": [],
-				"typeProperties": {
-					"pipeline": {
-						"referenceName": "ingest",
-						"type": "PipelineReference"
-					},
-					"waitOnCompletion": true,
-					"parameters": {
-						"workspace": {
-							"value": "@pipeline().parameters.workspace",
-							"type": "Expression"
-						},
-						"entityPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
-						"primaryKey": "id"
-					}
-				}
-			},
-			{
 				"name": "create_sql_db",
 				"type": "ExecutePipeline",
 				"dependsOn": [
@@ -215,18 +159,6 @@
 					},
 					{
 						"activity": "ingest_demographics",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					},
-					{
-						"activity": "ingest_graduationRatesbySubgroup",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					},
-					{
-						"activity": "ingest_cohortGraduRateStDistSchoolSubgrp",
 						"dependencyConditions": [
 							"Succeeded"
 						]

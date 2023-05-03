@@ -87,48 +87,6 @@
                 }
             },
             {
-                "name": "refine_graduationRatesbySubgroup",
-                "type": "ExecutePipeline",
-                "dependsOn": [],
-                "userProperties": [],
-                "typeProperties": {
-                    "pipeline": {
-                        "referenceName": "refine",
-                        "type": "PipelineReference"
-                    },
-                    "waitOnCompletion": true,
-                    "parameters": {
-                        "workspace": {
-                            "value": "@pipeline().parameters.workspace",
-                            "type": "Expression"
-                        },
-                        "entityPath": "contoso/v0.1/graduationRatesbySubgroup",
-                        "primaryKey": "id"
-                    }
-                }
-            },
-            {
-                "name": "refine_cohortGraduRateStDistSchoolSubgrp",
-                "type": "ExecutePipeline",
-                "dependsOn": [],
-                "userProperties": [],
-                "typeProperties": {
-                    "pipeline": {
-                        "referenceName": "refine",
-                        "type": "PipelineReference"
-                    },
-                    "waitOnCompletion": true,
-                    "parameters": {
-                        "workspace": {
-                            "value": "@pipeline().parameters.workspace",
-                            "type": "Expression"
-                        },
-                        "entityPath": "contoso/v0.1/cohortGraduRateStDistSchoolSubgrp",
-                        "primaryKey": "id"
-                    }
-                }
-            },
-            {
                 "name": "create_sql_db_for_general",
                 "type": "ExecutePipeline",
                 "dependsOn": [
@@ -152,18 +110,6 @@
                     },
                     {
                         "activity": "refine_demographics",
-                        "dependencyConditions": [
-                            "Succeeded"
-                        ]
-                    },
-                    {
-                        "activity": "refine_graduationRatesbySubgroup",
-                        "dependencyConditions": [
-                            "Succeeded"
-                        ]
-                    },
-                    {
-                        "activity": "refine_cohortGraduRateStDistSchoolSubgrp",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
@@ -211,18 +157,6 @@
                     },
                     {
                         "activity": "refine_demographics",
-                        "dependencyConditions": [
-                            "Succeeded"
-                        ]
-                    },
-                    {
-                        "activity": "refine_graduationRatesbySubgroup",
-                        "dependencyConditions": [
-                            "Succeeded"
-                        ]
-                    },
-                    {
-                        "activity": "refine_cohortGraduRateStDistSchoolSubgrp",
                         "dependencyConditions": [
                             "Succeeded"
                         ]
